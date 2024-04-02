@@ -1,0 +1,13 @@
+I've removed the parts of the program that are not relevant to normal arbitrage. The approach is switching from statistical arbitrage on one exchange to normal arbitrage on multiple exchanges. This is more complex behavior, but you can actually make money doing this.
+
+To make this bot the best that it can be, at some point it needs to include automated smart contract handling. This is substantially more complex than just an arbitrage bot, but provides the trader with many more opportunities.
+
+This is beyond the scope of the project (for now) but the most profitable trading bots are "front runners", but these are very sophisticated, difficult to build, and require a fair amount of money for ultra-fast hosting. This is the most advanced strategy, and beyond my skill set at the time, but after I have arbitrage behavior working consistently and smart contract navigation working consistently I can start to think about how I might optimize the bot for speed, learn about special high speed hosting, etc.
+
+Current goal: Get arbitrage behavior on multiple exchanges to work smoothly.
+
+Next goal: Integrate a UI so that a trader can change parameters/behavior without editing the source code.
+
+Third goal: After arbitrage behavior works and the user can set parameters/behavior in the UI, I want to incorporate smart contracts
+
+Distant fourth goal: Optimize this for speed, to the point that it is competitive. The kind of arb bot I'm making isn't as reliant on speed as some (I'm still learning about this) but I do know you have more opportunities if you can move quickly.
