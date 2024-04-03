@@ -1,40 +1,37 @@
 from decouple import config
-from dydx3 import Client
-from web3 import Web3
-from constants import (
-  HOST,
-  ETHEREUM_ADDRESS,
-  DYDX_API_KEY,
-  DYDX_API_SECRET,
-  DYDX_API_PASSPHRASE,
-  STARK_PRIVATE_KEY,
-  HTTP_PROVIDER
-)
+import ccxt
 
-# Connect to DYDX
-def connect_dydx():
+def connect_exchanges():
+    # Dictionary to store the exchange instances
+    exchanges = {}
 
-  # Create Client Connection
-  client = Client(
-      host=HOST,
-      api_key_credentials={
-          "key": DYDX_API_KEY,
-          "secret": DYDX_API_SECRET,
-          "passphrase": DYDX_API_PASSPHRASE,
-      },
-      stark_private_key=STARK_PRIVATE_KEY,
-      eth_private_key=config("ETH_PRIVATE_KEY"),
-      default_ethereum_address=ETHEREUM_ADDRESS,
-      web3=Web3(Web3.HTTPProvider(HTTP_PROVIDER))
-  )
+    # List of exchange names you want to connect to
+    exchange_names = ['binance', 'kucoin']  # Will add a lot more here
 
-  # Confirm client
-  account = client.private.get_account()
-  account_id = account.data["account"]["id"]
-  quote_balance = account.data["account"]["quoteBalance"]
-  print("Connection Successful")
-  print("Account ID: ", account_id)
-  print("Quote Balance: ", quote_balance)
+    for exchange_name in exchange_names:
+        # Retrieve the API key, secret, and other required parameters from the environment variables
+        api_key = config(f"{exchange_name.upper()}_API_KEY")
+        api_secret = config(f"{exchange_name.upper()}_API_SECRET")
+        # Add more parameters if required by the specific exchange
 
-  # Return Client
-  return client
+        try:
+            # Initialize the exchange
+            exchange_class = getattr(ccxt, exchange_name)
+            exchange = exchange_class({
+                'apiKey': api_key,
+                'secret': api_secret,
+                # Add more parameters if required by the specific exchange
+            })
+
+            # Load markets
+            exchange.load_markets()
+
+            # Add the exchange instance to the dictionary
+            exchanges[exchange_name] = exchange
+
+            print(f"Connection to {exchange_name} successful")
+        except Exception as e:
+            print(f"Error connecting to {exchange_name}: {e}")
+
+    # Return the dictionary of exchange instances
+    return exchanges
