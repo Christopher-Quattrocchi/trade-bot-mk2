@@ -1,19 +1,28 @@
 import ccxt
+from func_bridge import bridge_tokens
 
 def open_arbitrage_position(exchange_buy, exchange_sell, symbol, amount, buy_price, sell_price):
     try:
-        # Place a buy order on the exchange with the lower price
-        buy_order = exchange_buy.create_limit_buy_order(symbol, amount, buy_price)
+        if exchange_buy.id == "poloniex":
+            # Poloniex requires a different order type
+            buy_order = exchange_buy.create_limit_buy_order(symbol, amount, buy_price)
+        else:
+            buy_order = exchange_buy.create_market_buy_order(symbol, amount)
+
         print(f"Buy order placed on {exchange_buy.name}: {buy_order}")
 
-        # Place a sell order on the exchange with the higher price
-        sell_order = exchange_sell.create_limit_sell_order(symbol, amount, sell_price)
-        print(f"Sell order placed on {exchange_sell.name}: {sell_order}")
+        # Sell the token on the sell exchange
+        sell_token(exchange_sell, symbol, amount)
+        
+        # Bridge the tokens to the target chain
+        from_chain = exchange_sell.chain # assuming the exchange object has a chain attribute
+        to_chain = exchange_buy.chain
+        token = exchange_sell.market(symbol)['info']
+        bridge_tokens(from_chain, to_chain, token, amount)
 
-        # Return the order details
         return {
             "buy_order": buy_order,
-            "sell_order": sell_order
+            "sell_order": None  # Updated to None since sell_order is handled by sell_token
         }
 
     except ccxt.InsufficientFunds as e:
@@ -39,10 +48,34 @@ def open_arbitrage_positions(exchanges, arbitrage_opportunities):
         sell_price = opportunity["sell_price"]
         amount = opportunity["amount"]
 
-        # Open the arbitrage position
         position = open_arbitrage_position(buy_exchange, sell_exchange, symbol, amount, buy_price, sell_price)
 
         if position:
             positions.append(position)
 
     return positions
+
+def sell_token(exchange, symbol, amount):
+  try:
+    # Fetch the token and exchange information
+    market = exchange.market(symbol)
+    token_address = market['info']['address']
+    
+    # Approve the router to spend the token
+    approve_tx = exchange.approve({
+      'token': token_address,
+      'amount': amount,
+    })
+    print(f"Approval transaction: {approve_tx['info']['transactionHash']}")
+    
+    # Sell the token on the exchange
+    sell_tx = exchange.create_market_sell_order(symbol, amount)
+    print(f"Token sale successful. Transaction: {sell_tx}")
+    
+  except ccxt.InsufficientFunds as e:
+    print(f"Insufficient funds to sell the token: {e}")
+  except ccxt.InvalidOrder as e:
+    print(f"Invalid Order: {e}")
+  except Exception as e:
+    print(f"Error selling the token: {e}")
+    

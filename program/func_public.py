@@ -6,15 +6,15 @@ def fetch_market_prices(exchanges, symbol):
 
     for exchange_name, exchange in exchanges.items():
         try:
-            # Fetch the ticker for the specified symbol
+            if exchange_name == "bitstamp":
+                # Bitstamp uses a different symbol format
+                symbol = symbol.replace("/", "").lower()
+            elif exchange_name == "poloniex":
+                # Poloniex uses a different symbol format
+                symbol = symbol.replace("/", "_")
+            
             ticker = exchange.fetch_ticker(symbol)
-
-            # Extract the last price from the ticker
-            last_price = ticker['last']
-
-            # Store the price in the dictionary
-            prices[exchange_name] = last_price
-
+            # ...
         except Exception as e:
             print(f"Error fetching price from {exchange_name}: {e}")
 

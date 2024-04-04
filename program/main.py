@@ -3,9 +3,10 @@ from func_public import construct_market_prices
 from func_arbitrage import find_arbitrage_opportunities
 from func_entry_pairs import open_arbitrage_positions
 from func_exit_pairs import manage_arbitrage_exits
+import ccxt
 
 # Define the list of trading pairs to monitor
-symbols = ['BTC/USDT', 'ETH/USDT', 'XRP/USDT']
+symbols = ["BTC/USDT", "ETH/USDT", "XRP/USDT"]
 
 # Define the minimum profit percentage threshold
 min_profit_percentage = 1.0
@@ -31,7 +32,7 @@ def main():
                 print(opportunity)
 
             # Open arbitrage positions
-            successful_trades = open_arbitrage_positions(exchanges, arbitrage_opportunities, max_exposure)
+            successful_trades = open_arbitrage_positions(exchanges, arbitrage_opportunities)
 
             # Manage arbitrage position exits
             closed_trades = manage_arbitrage_exits(exchanges, successful_trades)
@@ -45,8 +46,17 @@ def main():
             print("Bot interrupted by user. Exiting...")
             break
 
+        except ccxt.NetworkError as e:
+            print(f"Network error occurred: {e}")
+            # Handle network errors, e.g., wait and retry
+
+        except ccxt.ExchangeError as e:
+            print(f"Exchange error occurred: {e}")
+            # Handle exchange-specific errors, e.g., invalid API key, rate limits
+
         except Exception as e:
             print(f"Error in main loop: {e}")
+            # Handle unexpected errors
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()
