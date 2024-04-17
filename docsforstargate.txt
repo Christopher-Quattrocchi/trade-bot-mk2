@@ -1,0 +1,1875 @@
+Official ERC20 Addresses
+Addresses for Ethereum, BNB Chain, Avalanche, Polygon, Arbitrum, Optimism, Fantom, Metis, Kava, Linea, and Base.
+
+Ethereum
+Token	Address	Decimals	Source
+USDC
+
+0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48
+
+6
+
+https://etherscan.io/token/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48
+
+USDT
+
+0xdAC17F958D2ee523a2206206994597C13D831ec7
+
+6
+
+https://etherscan.io/token/0xdac17f958d2ee523a2206206994597c13d831ec7
+
+USDD
+
+0x0C10bF8FcB7Bf5412187A595ab97a3609160b5c6
+
+18
+
+https://etherscan.io/token/0x0c10bf8fcb7bf5412187a595ab97a3609160b5c6
+
+SGETH
+
+0x72E2F4830b9E45d52F80aC08CB2bEC0FeF72eD9c
+
+18
+
+https://etherscan.io/token/0x72e2f4830b9e45d52f80ac08cb2bec0fef72ed9c
+
+DAI
+
+0x6B175474E89094C44Da98b954EedeAC495271d0F
+
+18
+
+https://etherscan.io/address/0x6B175474E89094C44Da98b954EedeAC495271d0F
+
+FRAX
+
+0x853d955aCEf822Db058eb8505911ED77F175b99e
+
+18
+
+https://etherscan.io/address/0x853d955aCEf822Db058eb8505911ED77F175b99e
+
+sUSD
+
+0x57Ab1ec28D129707052df4dF418D58a2D46d5f51
+
+18
+
+https://etherscan.io/address/0x57Ab1ec28D129707052df4dF418D58a2D46d5f51
+
+LUSD
+
+0x5f98805A4E8be255a32880FDeC7F6728C6568bA0
+
+18
+
+https://etherscan.io/address/0x5f98805A4E8be255a32880FDeC7F6728C6568bA0
+
+Metis
+
+0x9e32b13ce7f2e80a01932b42553652e053d6ed8e
+
+18
+
+https://etherscan.io/token/0x9e32b13ce7f2e80a01932b42553652e053d6ed8e
+
+mETH
+
+0xd5F7838F5C461fefF7FE49ea5ebaF7728bB0ADfa
+
+18
+
+https://etherscan.io/address/0xd5F7838F5C461fefF7FE49ea5ebaF7728bB0ADfa
+
+Avalanche
+Token	Address	Decimals	Source
+USDC
+
+0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E
+
+6
+
+https://snowtrace.io/token/0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e
+
+USDT
+
+0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7
+
+6
+
+https://snowtrace.io/token/0x9702230a8ea53601f5cd2dc00fdbc13d4df4a8c7
+
+FRAX
+
+0xD24C2Ad096400B6FBcd2ad8B24E7acBc21A1da64
+
+18
+
+https://snowtrace.io/address/0xD24C2Ad096400B6FBcd2ad8B24E7acBc21A1da64
+
+Binance Smart Chain
+Token	Address	Decimals	Source
+BUSD
+
+0xe9e7cea3dedca5984780bafc599bd69add087d56
+
+18
+
+https://bscscan.com/token/0xe9e7cea3dedca5984780bafc599bd69add087d56
+
+USDT
+
+0x55d398326f99059fF775485246999027B3197955
+
+18
+
+https://bscscan.com/token/0x55d398326f99059ff775485246999027b3197955
+
+USDD
+
+0xd17479997F34dd9156Deef8F95A52D81D265be9c
+
+18
+
+https://bscscan.com/token/0xd17479997f34dd9156deef8f95a52d81d265be9c
+
+Metis
+
+0xe552Fb52a4F19e44ef5A967632DBc320B0820639
+
+18
+
+https://bscscan.com/token/0xe552Fb52a4F19e44ef5A967632DBc320B0820639
+
+Polygon
+Token	Address	Decimals	Source
+USDC
+
+0x2791bca1f2de4661ed88a30c99a7a9449aa84174
+
+6
+
+https://polygonscan.com/token/0x2791bca1f2de4661ed88a30c99a7a9449aa84174
+
+USDT
+
+0xc2132d05d31c914a87c6611c10748aeb04b58e8f
+
+6
+
+https://polygonscan.com/token/0xc2132d05d31c914a87c6611c10748aeb04b58e8f
+
+DAI
+
+0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063
+
+18
+
+https://polygonscan.com/address/0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063
+
+Arbitrum
+Token	Address	Decimals	Source
+USDC
+
+0xff970a61a04b1ca14834a43f5de4533ebddb5cc8
+
+6
+
+https://arbiscan.io/token/0xff970a61a04b1ca14834a43f5de4533ebddb5cc8
+
+USDT
+
+0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9
+
+6
+
+https://arbiscan.io/token/0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9
+
+SGETH
+
+0x82CbeCF39bEe528B5476FE6d1550af59a9dB6Fc0
+
+18
+
+https://arbiscan.io/token/0x82cbecf39bee528b5476fe6d1550af59a9db6fc0
+
+FRAX
+
+0x17FC002b466eEc40DaE837Fc4bE5c67993ddBd6F
+
+18
+
+https://arbiscan.io/address/0x17FC002b466eEc40DaE837Fc4bE5c67993ddBd6F
+
+Optimism
+Token	Address	Decimals	Source
+USDC
+
+0x7f5c764cbc14f9669b88837ca1490cca17c31607
+
+6
+
+https://optimistic.etherscan.io/token/0x7f5c764cbc14f9669b88837ca1490cca17c31607
+
+SGETH
+
+0xb69c8CBCD90A39D8D3d3ccf0a3E968511C3856A0
+
+18
+
+https://optimistic.etherscan.io/token/0xb69c8cbcd90a39d8d3d3ccf0a3e968511c3856a0
+
+DAI
+
+0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1
+
+18
+
+https://optimistic.etherscan.io/address/0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1
+
+FRAX
+
+0x2E3D870790dC77A83DD1d18184Acc7439A53f475
+
+18
+
+https://optimistic.etherscan.io/address/0x2E3D870790dC77A83DD1d18184Acc7439A53f475
+
+sUSD
+
+0x8c6f28f2F1A3C87F0f938b96d27520d9751ec8d9
+
+18
+
+https://optimistic.etherscan.io/address/0x8c6f28f2F1A3C87F0f938b96d27520d9751ec8d9
+
+LUSD
+
+0xc40F949F8a4e094D1b49a23ea9241D289B7b2819
+
+18
+
+https://optimistic.etherscan.io/address/0xc40f949f8a4e094d1b49a23ea9241d289b7b2819
+
+Fantom
+Token	Address	Decimals	Source
+USDC
+
+0x28a92dde19D9989F39A49905d7C9C2FAc7799bDf
+
+6
+
+https://ftmscan.com/address/0x28a92dde19D9989F39A49905d7C9C2FAc7799bDf
+
+Metis
+Token	Address	Decimals	Source
+Metis
+
+0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000
+
+18
+
+https://andromeda-explorer.metis.io/token/0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000
+
+Metis.USDT
+
+0xbB06DCA3AE6887fAbF931640f67cab3e3a16F4dC
+
+6
+
+https://andromeda-explorer.metis.io/token/0xbB06DCA3AE6887fAbF931640f67cab3e3a16F4dC
+
+Base
+Token	Address	Decimals	Source
+USDC
+
+0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA
+
+6
+
+https://basescan.org/token/0xd9aaec86b65d86f6a7b5b1b0c42ffa531710b6ca
+
+SGETH
+
+0x224D8Fd7aB6AD4c6eb4611Ce56EF35Dec2277F03
+
+18
+
+https://basescan.org/token/0x224D8Fd7aB6AD4c6eb4611Ce56EF35Dec2277F03
+
+Linea
+Token	Address	Decimals	Source
+SGETH
+
+0xAad094F6A75A14417d39f04E690fC216f080A41a
+
+18
+
+https://lineascan.build/address/0xAad094F6A75A14417d39f04E690fC216f080A41a
+
+Kava
+Token	Address	Decimals	Source
+USDT
+
+0xAad094F6A75A14417d39f04E690fC216f080A41a
+
+6
+
+https://kavascan.com/address/0xAad094F6A75A14417d39f04E690fC216f080A41a
+
+Mantle
+Token	Address	Decimals	Source
+USDC
+
+0xAad094F6A75A14417d39f04E690fC216f080A41a
+
+6
+
+https://mantlescan.info/token/0xAad094F6A75A14417d39f04E690fC216f080A41a
+
+USDT
+
+0x201EBa5CC46D216Ce6DC03F6a759e8E766e956aE
+
+6
+
+https://mantlescan.info/token/0x201EBa5CC46D216Ce6DC03F6a759e8E766e956aE
+
+mETH
+
+0xcDA86A272531e8640cD7F1a92c01839911B90bb0
+
+18
+
+https://mantlescan.info/token/0xcDA86A272531e8640cD7F1a92c01839911B90bb0
+
+
+How to Swap
+Use Stargate to transfer an asset across blockchains.
+
+You will need the Stargate router interface.
+
+To perform a cross chain swap() in solidity, here is an example:
+
+For the native gas fee required for swap() you need to call quoteLayerZero() on the Router.sol contract to get the amount you should send as msg.value. 
+
+Here is the swap() interface:
+
+Copy
+function swap(
+  uint16 _dstChainId,
+  uint256 _srcPoolId,
+  uint256 _dstPoolId,
+  address payable _refundAddress,
+  uint256 _amountLD,
+  uint256 _minAmountLD,       
+  lzTxObj memory _lzTxParams,
+  bytes calldata _to,
+  bytes calldata _payload
+) external payable override nonReentrant {
+First determine the swap fee, then call swap() to transfer the asset to the destination chain.
+
+Copy
+// perform a Stargate swap() in a solidity smart contract function
+// the msg.value is the "fee" that Stargate needs to pay for the cross chain message
+IStargateRouter(routerAddress).swap{value:msg.value}(
+    10006,                           // send to Fuji (use LayerZero chainId)
+    1,                               // source pool id
+    1,                               // dest pool id                 
+    msg.sender,                      // refund adddress. extra gas (if any) is returned to this address
+    _amountLD,                       // quantity to swap in LD, (local decimals)
+    _minAmountLD,                    // the min qty you would accept in LD (local decimals)
+    IStargateRouter.lzTxObj(0, 0, "0x")  // 0 additional gasLimit increase, 0 airdrop, at 0x address
+    abi.encodePacked(msg.sender),    // the address to send the tokens to on the destination
+    bytes("")                        // bytes param, if you wish to send additional payload you can abi.encode() them here
+);
+To perform a swap() using ethers via a frontend, use the abi and call swap() on the Router contract instance:
+
+Copy
+let tx = await router.swap(
+    2,                     // destination chainId
+    1,                     // source poolId
+    1,                     // destination poolId
+    yourAddress,           // refund address. extra gas (if any) is returned to this address
+    _amountLD,             // quantity to swap in LD (local decimals) 
+    _minAmountLD,          // the min qty you would accept in LD (local decimals)
+    { dstGasForCall: 0, dstNativeAmount: 0, dstNativeAddr: "0x" },
+    yourAddress,           // the address to send the tokens to on the destination
+    "",                    // payload
+    {value: fee}           // "fee" is the native gas to pay for the cross chain message fee. see 
+);
+TESTNET ONLY: For the fee parameter, if you wish to simply guess the fee, you can do something like this, as Stargate will refund the caller the additional gas amount if they send too much.
+
+Copy
+let messageFee = ethers.utils.parseEther('0.025');     // send 0.02 eth converter to wei
+await stargateRouter.swap(..., {value: messageFee});  // swap asset across chains
+See how to get the cross chain message fee to pay enough native gas when calling swap()
+
+Cross Chain Swap Fee
+Get the cross chain swap fee, paid in native gas on the source chain.
+
+Use quoteLayerZeroFee() to get the fee required to call swap(). The fee ensures the cross chain message is paid for.
+
+Copy
+// Router.sol method to get the value for swap()
+function quoteLayerZeroFee(
+    uint16 _dstChainId,
+    uint8 _functionType,
+    bytes calldata _toAddress,
+    bytes calldata _transferAndCallPayload,
+    Router.lzTxObj memory _lzTxParams
+) external view override returns (uint256, uint256)
+For the uint8 _functionType argument use 1 for swap()s.  Here is an explanation of the other function types.
+
+Estimate the fee for the message cost of the swap() using offchain code like this:
+
+Copy
+let quoteData = await router.quoteLayerZeroFee(
+    dstChainId,                 // destination chainId
+    functionType,               // function type: see Bridge.sol for all types
+    toAddress,                  // destination of tokens
+    "0x",                       // payload, using abi.encode()
+    ({
+        dstGasForCall: 0,       // extra gas, if calling smart contract,
+        dstNativeAmount: 0,     // amount of dust dropped in destination wallet 
+        dstNativeAddr: taskArgs.dstNativeAddr // destination wallet for dust
+    })
+)
+quoteLayerZeroFee() estimates the message fee and returns an amount of wei in source gas token. Use this as the { value: xxxx } passed to the actual swap() method when you perform the swap.
+
+Note:  quoteLayerZeroFee() returns a 2-value tuple:
+
+Copy
+// the message fee is the first value in the tuple.
+let feeWei = quoteData[0]
+Use feeWei to call swap():
+
+Copy
+// ethersjs example: call swap() with the feeWei value from quoteLayerZeroFee
+// execute a Stargate swap on the Router.sol contract
+await router.swap(
+    dstChainId,
+    srcPoolId,
+    dstPoolId,
+    payable(refundAddress),
+    qty,
+    qtyMin,
+    { dstGasForCall: 0, dstNativeAmount: 0, dstNativeAddr: "0x" },   // lzTxObj
+    toAddress, 
+    "0x", // no payload
+    { value: feeWei }  // <------ feeWei from quoteData[0] from quoteLayerZeroFee()   
+)
+
+EQ Fee Projection
+The EQ fee can be calculate from onchain data. Below is the code we use to project the EQ Fee on the UI. If your curious about more details to swap math take a look here.
+
+Copy
+function getEquilibriumFee(
+    _idealBalance: CurrencyAmount,
+    _beforeBalance: CurrencyAmount,
+    _amount: CurrencyAmount,
+    _fee: FeeLibraryV02
+): { eqFee: CurrencyAmount; protocolSubsidy: CurrencyAmount } {
+    const afterBalance = _beforeBalance.subtract(_amount)
+
+    let safeZoneMaxCurrency = _idealBalance.multiply(_fee.delta1Rate)
+    const safeZoneMax = new Fraction(safeZoneMaxCurrency.numerator, safeZoneMaxCurrency.denominator)
+    const safeZoneMinCurrency = _idealBalance.multiply(_fee.delta2Rate)
+    const safeZoneMin = new Fraction(safeZoneMinCurrency.numerator, safeZoneMinCurrency.denominator)
+    const proxyBeforeBalanceCurrency = _beforeBalance.lessThan(safeZoneMax) ? _beforeBalance : safeZoneMax
+    const proxyBeforeBalance = new Fraction(proxyBeforeBalanceCurrency.numerator, proxyBeforeBalanceCurrency.denominator)
+
+    let eqFee = CurrencyAmount.fromRawAmount(_amount.currency, JSBI.BigInt(0))
+    let protocolSubsidy = CurrencyAmount.fromRawAmount(_amount.currency, JSBI.BigInt(0))
+
+    if (afterBalance.greaterThan(safeZoneMax) || afterBalance.equalTo(safeZoneMax)) {
+        // no fee zone, protocol subsidezes it
+        eqFee = _amount.multiply(_fee.protocolSubsidyRate)
+        protocolSubsidy = eqFee
+    } else if (afterBalance.greaterThan(safeZoneMin) || afterBalance.equalTo(safeZoneMin)) {
+        // safe zone
+        eqFee = getTrapezoidArea(_amount.currency, _fee.lambda1Rate, ZERO, safeZoneMax, safeZoneMin, proxyBeforeBalance, afterBalance)
+    } else {
+        // danger zone
+        if (_beforeBalance.greaterThan(safeZoneMin) || _beforeBalance.equalTo(safeZoneMin)) {
+            // across 2 or 3 zones
+            // part 1
+            eqFee = eqFee.add(
+                getTrapezoidArea(_amount.currency, _fee.lambda1Rate, ZERO, safeZoneMax, safeZoneMin, proxyBeforeBalance, safeZoneMin)
+            )
+            // part 2
+            eqFee = eqFee.add(
+                getTrapezoidArea(_amount.currency, _fee.lambda2Rate, _fee.lambda1Rate, safeZoneMin, ZERO, safeZoneMin, afterBalance)
+            )
+        } else {
+            // only in danger zone
+            // part2 only
+            eqFee = eqFee.add(
+                getTrapezoidArea(_amount.currency, _fee.lambda2Rate, _fee.lambda1Rate, safeZoneMin, ZERO, _beforeBalance, afterBalance)
+            )
+        }
+    }
+
+    return {
+        eqFee,
+        protocolSubsidy,
+    }
+}
+
+Function Types
+Information about quoteLayerZero function types.
+
+Function types are used to by quoteLayerZeroFee() to get the cross chain message fee.
+
+For standard a Stargate swap(), use function type = 1
+
+Copy
+// all function types
+uint8 public constant TYPE_SWAP_REMOTE            = 1;
+uint8 public constant TYPE_ADD_LIQUIDITY          = 2;
+uint8 public constant TYPE_REDEEM_LOCAL_CALL_BACK = 3;
+uint8 public constant TYPE_WITHDRAW_REMOTE        = 4;
+
+Each of the above types corresponds to a function within Stargate that sends a cross chain message.
+
+Type 1: Used for swap()
+
+Type 2: Used for addLiquidity()
+
+Type 3: Used for the B->A portion of an A->B->A withdrawLocal()
+
+Type 4: Use to initiate a withdrawLocal() 
+
+
+
+Mainnet
+Core Stargate contract addresses
+
+To addLiquidity() and swap() native ETH use the RouterETH.sol contract instead of the Router.sol
+
+Contract Addresses
+Ethereum​
+chainId: 101
+
+Router.sol: 0x8731d54E9D02c286767d56ac03e8037C07e01e98
+
+RouterETH.sol: 0x150f94B44927F078737562f0fcF3C95c01Cc2376
+
+This is currently used by the frontend.
+
+*RouterETH.sol: 0xb1b2eeF380f21747944f46d28f683cD1FBB4d03c
+
+ *: This router can swap with payload.  
+
+Bridge.sol: 0x296F55F8Fb28E498B858d0BcDA06D955B2Cb3f97
+
+Factory.sol: 0x06D538690AF257Da524f25D0CD52fD85b1c2173E
+
+StargateToken.sol: 0xAf5191B0De278C7286d6C7CC6ab6BB8A73bA2Cd6
+
+StargateFeeLibraryV07: 0x8C3085D9a554884124C998CDB7f6d7219E9C1e6F
+
+StargateComposer.sol: 0xeCc19E177d24551aA7ed6Bc6FE566eCa726CC8a9
+
+WidgetSwap.sol: 0x10d16248bED1E0D0c7cF94fFD99A50c336c7Bcdc
+
+Pool.sol (ETH): 0x101816545F6bd2b1076434B54383a1E633390A2E
+
+Pool.sol (USDC): 0xdf0770dF86a8034b3EFEf0A1Bb3c889B8332FF56
+
+Pool.sol (USDT): 0x38EA452219524Bb87e18dE1C24D3bB59510BD783
+
+Pool.sol (USDD): 0x692953e758c3669290cb1677180c64183cEe374e
+
+Pool.sol (DAI): 0x0Faf1d2d3CED330824de3B8200fc8dc6E397850d
+
+Pool.sol (FRAX): 0xfA0F307783AC21C39E939ACFF795e27b650F6e68
+
+Pool.sol (sUSD): 0x590d4f8A68583639f215f675F3a259Ed84790580
+
+Pool.sol (LUSD): 0xE8F55368C82D38bbbbDb5533e7F56AfC2E978CC2
+
+Pool.sol (MAI): 0x9cef9a0b1bE0D289ac9f4a98ff317c33EAA84eb8
+
+Pool.sol (METIS): 0xd8772edBF88bBa2667ed011542343b0eDDaCDa47
+
+Pool.sol (metis.USDT): 0x430Ebff5E3E80A6C58E7e6ADA1d90F5c28AA116d
+
+Pool.sol (mETH): 0xa572d137666dcbadfa47c3fc41f15e90134c618c
+
+LPStaking.sol: 0xB0D502E938ed5f4df2E681fE6E419ff29631d62b
+
+LPStakingTimeMetis.sol: 0x1c3000b8f475A958b87c73a5cc5780Ab763122FC
+
+BNB Chain
+chainId: 102
+
+Router.sol: 0x4a364f8c717cAAD9A442737Eb7b8A55cc6cf18D8
+
+Bridge.sol: 0x6694340fc020c5E6B96567843da2df01b2CE1eb6
+
+Factory.sol: 0xe7Ec689f432f29383f217e36e680B5C855051f25
+
+StargateToken.sol: 0xB0D502E938ed5f4df2E681fE6E419ff29631d62b
+
+StargateFeeLibraryV07:0xCA6522116e8611A346D53Cc2005AC4192e3fc2BC
+
+StargateComposer.sol: 0xeCc19E177d24551aA7ed6Bc6FE566eCa726CC8a9
+
+WidgetSwap.sol: 0x10d16248bED1E0D0c7cF94fFD99A50c336c7Bcdc
+
+Pool.sol (USDT): 0x9aA83081AA06AF7208Dcc7A4cB72C94d057D2cda
+
+Pool.sol (BUSD): 0x98a5737749490856b401DB5Dc27F522fC314A4e1
+
+Pool.sol (USDD): 0x4e145a589e4c03cBe3d28520e4BF3089834289Df
+
+Pool.sol (MAI): 0x7BfD7f2498C4796f10b6C611D9db393D3052510C
+
+Pool.sol (metis.USDT): 0x68C6c27fB0e02285829e69240BE16f32C5f8bEFe
+
+LPStaking.sol: 0x3052A0F6ab15b4AE1df39962d5DdEFacA86DaB47
+
+LPStakingTimeMetis.sol: 0x447f2078a1b6b2c1190b7b7af98ef4b139d41f70
+
+Avalanche​
+chainId: 106
+
+Router.sol: 0x45A01E4e04F14f7A4a6702c74187c5F6222033cd
+
+Bridge.sol: 0x9d1B1669c73b033DFe47ae5a0164Ab96df25B944
+
+Factory.sol: 0x808d7c71ad2ba3FA531b068a2417C63106BC0949
+
+StargateToken.sol: 0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590
+
+StargateFeeLibraryV07:0x5E8eC15ACB5Aa94D5f0589E54441b31c5e0B992d
+
+StargateComposer.sol: 0xeCc19E177d24551aA7ed6Bc6FE566eCa726CC8a9
+
+WidgetSwap.sol: 0x10d16248bED1E0D0c7cF94fFD99A50c336c7Bcdc
+
+Pool.sol (USDC): 0x1205f31718499dBf1fCa446663B532Ef87481fe1
+
+Pool.sol (USDT): 0x29e38769f23701A2e4A8Ef0492e19dA4604Be62c
+
+Pool.sol (FRAX): 0x1c272232Df0bb6225dA87f4dEcD9d37c32f63Eea
+
+Pool.sol (MAI): 0x8736f92646B2542B3e5F3c63590cA7Fe313e283B
+
+Pool.sol (metis.USDT): 0xEAe5c2F6B25933deB62f754f239111413A0A25ef
+
+LPStaking.sol: 0x8731d54E9D02c286767d56ac03e8037C07e01e98
+
+Polygon​
+chainId: 109
+
+Router.sol: 0x45A01E4e04F14f7A4a6702c74187c5F6222033cd
+
+Bridge.sol: 0x9d1B1669c73b033DFe47ae5a0164Ab96df25B944
+
+Factory.sol: 0x808d7c71ad2ba3FA531b068a2417C63106BC0949
+
+StargateToken.sol: 0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590
+
+StargateFeeLibraryV07: 0xb279b324Ea5648bE6402ABc727173A225383494C
+
+StargateComposer.sol: 0xeCc19E177d24551aA7ed6Bc6FE566eCa726CC8a9
+
+WidgetSwap.sol: 0x10d16248bED1E0D0c7cF94fFD99A50c336c7Bcdc
+
+Pool.sol (USDC): 0x1205f31718499dBf1fCa446663B532Ef87481fe1
+
+Pool.sol (USDT): 0x29e38769f23701A2e4A8Ef0492e19dA4604Be62c
+
+Pool.sol (DAI): 0x1c272232Df0bb6225dA87f4dEcD9d37c32f63Eea
+
+Pool.sol (MAI): 0x8736f92646B2542B3e5F3c63590cA7Fe313e283B
+
+LPStaking.sol: 0x8731d54E9D02c286767d56ac03e8037C07e01e98
+
+Arbitrum​
+chainId: 110
+
+Router.sol: 0x53Bf833A5d6c4ddA888F69c22C88C9f356a41614
+
+RouterETH.sol:0xbf22f0f184bCcbeA268dF387a49fF5238dD23E40
+
+This is currently used by the frontend.
+
+*RouterEth.sol:  0xb1b2eeF380f21747944f46d28f683cD1FBB4d03c
+
+ *: This router can swap with payload.
+
+Bridge.sol: 0x352d8275AAE3e0c2404d9f68f6cEE084B5bEB3DD
+
+Factory.sol: 0x55bDb4164D28FBaF0898e0eF14a589ac09Ac9970
+
+StargateToken.sol: 0x6694340fc020c5E6B96567843da2df01b2CE1eb6
+
+StargateFeeLibraryV07:0x1cF31666c06ac3401ed0C1c6346C4A9425dd7De4
+
+StargateComposer.sol: 0xeCc19E177d24551aA7ed6Bc6FE566eCa726CC8a9
+
+WidgetSwap.sol: 0x10d16248bED1E0D0c7cF94fFD99A50c336c7Bcdc
+
+Pool.sol (ETH): 0x915A55e36A01285A14f05dE6e81ED9cE89772f8e
+
+Pool.sol (USDC): 0x892785f33CdeE22A30AEF750F285E18c18040c3e
+
+Pool.sol (USDT): 0xB6CfcF89a7B22988bfC96632aC2A9D6daB60d641
+
+Pool.sol (FRAX): 0xaa4BF442F024820B2C28Cd0FD72b82c63e66F56C
+
+Pool.sol (MAI): 0xF39B7Be294cB36dE8c510e267B82bb588705d977
+
+Pool.sol (LUSD): 0x600E576F9d853c95d58029093A16EE49646F3ca5
+
+LPStakingTime.sol: 0x9774558534036Ff2E236331546691b4eB70594b1
+
+Optimism​
+chainId: 111
+
+Router.sol: 0xB0D502E938ed5f4df2E681fE6E419ff29631d62b
+
+RouterETH.sol: 0xB49c4e680174E331CB0A7fF3Ab58afC9738d5F8b
+
+This is currently used by the frontend.
+
+*RouterEth.sol:  0xb1b2eeF380f21747944f46d28f683cD1FBB4d03c
+
+ *: This router can swap with payload.
+
+Bridge.sol: 0x701a95707A0290AC8B90b3719e8EE5b210360883
+
+Factory.sol: 0xE3B53AF74a4BF62Ae5511055290838050bf764Df
+
+StargateToken.sol: 0x296F55F8Fb28E498B858d0BcDA06D955B2Cb3f97
+
+StargateFeeLibraryV07: 0x505eCDF2f14Cd4f1f413d04624b009A449D38D7E
+
+StargateComposer.sol: 0xeCc19E177d24551aA7ed6Bc6FE566eCa726CC8a9
+
+WidgetSwap.sol: 0x10d16248bED1E0D0c7cF94fFD99A50c336c7Bcdc
+
+Pool.sol (ETH): 0xd22363e3762cA7339569F3d33EADe20127D5F98C
+
+Pool.sol (USDC): 0xDecC0c09c3B5f6e92EF4184125D5648a66E35298
+
+Pool.sol (DAI): 0x165137624F1f692e69659f944BF69DE02874ee27
+
+Pool.sol (FRAX): 0x368605D9C6243A80903b9e326f1Cddde088B8924
+
+Pool.sol (sUSD): 0x2F8bC9081c7FCFeC25b9f41a50d97EaA592058ae
+
+Pool.sol (LUSD): 0x3533F5e279bDBf550272a199a223dA798D9eff78
+
+Pool.sol (MAI): 0x5421FA1A48f9FF81e4580557E86C7C0D24C18036
+
+LPStakingTime.sol: 0x4DeA9e918c6289a52cd469cAC652727B7b412Cd2
+
+Fantom​
+chainId: 112
+
+Router.sol: 0xAf5191B0De278C7286d6C7CC6ab6BB8A73bA2Cd6
+
+Bridge.sol: 0x45A01E4e04F14f7A4a6702c74187c5F6222033cd
+
+Factory.sol: 0x9d1B1669c73b033DFe47ae5a0164Ab96df25B944
+
+StargateToken.sol: 0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590
+
+StargateFeeLibraryV07: 0x616a68BD6DAd19e066661C7278611487d4072839
+
+StargateComposer.sol: 0xeCc19E177d24551aA7ed6Bc6FE566eCa726CC8a9
+
+WidgetSwap.sol: 0x10d16248bED1E0D0c7cF94fFD99A50c336c7Bcdc
+
+Pool.sol (USDC): 0xc647ce76ec30033aa319d472ae9f4462068f2ad7
+
+LPStaking.sol: 0x224D8Fd7aB6AD4c6eb4611Ce56EF35Dec2277F03
+
+Metis   
+Metis m.USDT is connected to isolated pools of USDT on Ethereum, BSC, Avalanche and can only be swapped in and out of Metis using poolId 19.
+
+chainId: 151
+
+Router.sol: 0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590
+
+Bridge.sol: 0x45f1A95A4D3f3836523F5c83673c797f4d4d263B
+
+Factory.sol: 0xAF54BE5B6eEc24d6BFACf1cce4eaF680A8239398
+
+StargateToken.sol: N/A
+
+StargateFeeLibraryV07: 0x55bDb4164D28FBaF0898e0eF14a589ac09Ac9970
+
+StargateComposer.sol: 0xeCc19E177d24551aA7ed6Bc6FE566eCa726CC8a9
+
+WidgetSwap.sol: 0x10d16248bED1E0D0c7cF94fFD99A50c336c7Bcdc
+
+Pool.sol (METIS): 0xAad094F6A75A14417d39f04E690fC216f080A41a
+
+Pool.sol (m.USDT): 0x2b60473a7C41Deb80EDdaafD5560e963440eb632
+
+LPStakingTimeMetis.sol: 0x45A01E4e04F14f7A4a6702c74187c5F6222033cd
+
+Base
+chainId: 184
+
+Router.sol: 0x45f1A95A4D3f3836523F5c83673c797f4d4d263B
+
+RouterETH.sol: 0x50B6EbC2103BFEc165949CC946d739d5650d7ae4
+
+Bridge.sol: 0xAF54BE5B6eEc24d6BFACf1cce4eaF680A8239398
+
+Factory.sol: 0xAf5191B0De278C7286d6C7CC6ab6BB8A73bA2Cd6 
+
+StargateToken.sol: 0xE3B53AF74a4BF62Ae5511055290838050bf764Df 
+
+StargateFeeLibraryV07: 0x9d1b1669c73b033dfe47ae5a0164ab96df25b944
+
+StargateComposer.sol: 0xeCc19E177d24551aA7ed6Bc6FE566eCa726CC8a9
+
+WidgetSwap.sol: 0x10d16248bED1E0D0c7cF94fFD99A50c336c7Bcdc
+
+Pool.sol (ETH): 0x28fc411f9e1c480AD312b3d9C60c22b965015c6B
+
+Pool.sol (USDC): 0x4c80E24119CFB836cdF0a6b53dc23F04F7e652CA
+
+LPStakingTime.sol: 0x06Eb48763f117c7Be887296CDcdfad2E4092739C
+
+Linea
+chainId: 183
+
+Router.sol: 0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590
+
+RouterETH.sol: 0x8731d54E9D02c286767d56ac03e8037C07e01e98
+
+Bridge.sol: 0x45f1A95A4D3f3836523F5c83673c797f4d4d263B
+
+Factory.sol: 0xaf54be5b6eec24d6bfacf1cce4eaf680a8239398 
+
+StargateToken.sol: 0x808d7c71ad2ba3FA531b068a2417C63106BC0949 
+
+StargateFeeLibraryV07: 0x45A01E4e04F14f7A4a6702c74187c5F6222033cd
+
+StargateComposer.sol: 0xeCc19E177d24551aA7ed6Bc6FE566eCa726CC8a9
+
+WidgetSwap.sol: 0x10d16248bED1E0D0c7cF94fFD99A50c336c7Bcdc
+
+Pool.sol (ETH): 0xAad094F6A75A14417d39f04E690fC216f080A41a
+
+LPStakingTime.sol: 0x4a364f8c717cAAD9A442737Eb7b8A55cc6cf18D8
+
+Kava
+chainId: 177
+
+Router.sol: 0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590
+
+Bridge.sol: 0x45f1A95A4D3f3836523F5c83673c797f4d4d263B
+
+Factory.sol: 0xAF54BE5B6eEc24d6BFACf1cce4eaF680A8239398 
+
+StargateToken.sol: 0x83c30eb8bc9ad7C56532895840039E62659896ea 
+
+StargateFeeLibraryV07: 0x45a01e4e04f14f7a4a6702c74187c5f6222033cd
+
+StargateComposer.sol: 0xeCc19E177d24551aA7ed6Bc6FE566eCa726CC8a9
+
+WidgetSwap.sol: 0x10d16248bED1E0D0c7cF94fFD99A50c336c7Bcdc
+
+Pool.sol (USDT): 0xAad094F6A75A14417d39f04E690fC216f080A41a
+
+LPStakingTime.sol: 0x35F78Adf283Fe87732AbC9747d9f6630dF33276C
+
+Mantle
+chainId: 181
+
+Router.sol: 0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590
+
+Bridge.sol: 0x45f1A95A4D3f3836523F5c83673c797f4d4d263B
+
+Factory.sol: 0xAF54BE5B6eEc24d6BFACf1cce4eaF680A8239398 
+
+StargateToken.sol: 0x8731d54E9D02c286767d56ac03e8037C07e01e98 
+
+StargateFeeLibraryV07: 0x45A01E4e04F14f7A4a6702c74187c5F6222033cd
+
+StargateComposer.sol: 0x296F55F8Fb28E498B858d0BcDA06D955B2Cb3f97
+
+WidgetSwap.sol: 0x06D538690AF257Da524f25D0CD52fD85b1c2173E
+
+Pool.sol (USDC): 0xAad094F6A75A14417d39f04E690fC216f080A41a
+
+Pool.sol (USDT): 0x2b60473a7C41Deb80EDdaafD5560e963440eb632
+
+Pool.sol (mETH): 0xf52b354FFDB323E0667E87a0136040e3e4D9dF33
+
+LPStakingTime.sol: 0x352d8275AAE3e0c2404d9f68f6cEE084B5bEB3DD
+
+
+Bridge.sol
+The contract that interacts with LayerZero messaging
+
+Copy
+Mainnet
+ethereum: 0x296F55F8Fb28E498B858d0BcDA06D955B2Cb3f97
+bsc: 0x6694340fc020c5E6B96567843da2df01b2CE1eb6
+avalanche: 0x9d1B1669c73b033DFe47ae5a0164Ab96df25B944
+polygon: 0x9d1B1669c73b033DFe47ae5a0164Ab96df25B944
+arbitrum: 0x352d8275AAE3e0c2404d9f68f6cEE084B5bEB3DD
+optimism: 0x701a95707A0290AC8B90b3719e8EE5b210360883
+fantom: 0x45A01E4e04F14f7A4a6702c74187c5F6222033cd
+metis: 0x45f1A95A4D3f3836523F5c83673c797f4d4d263B
+base: 0xAF54BE5B6eEc24d6BFACf1cce4eaF680A8239398
+linea: 0x45f1A95A4D3f3836523F5c83673c797f4d4d263B
+kava: 0x45f1A95A4D3f3836523F5c83673c797f4d4d263B
+
+
+Testnet
+sepolia: 0x96ab23d6224cCA013D119Edd5A31813C32BCA077
+bsc-testnet: 0x6B5b5A7A5195Da7E20251822022Ae03B12Df5952
+fuji: 0x75D573607f5047C728D3a786BE3Ba33765712875
+arbitrum-sepolia: 0x2f4B6e5Ae6728C1832E93DE67141908F8Aa9255B
+optimism-sepolia: 0xB55a9254b467A0a52d6696cD327f4C4a37498c1A
+xchain: 0x8487f8eB781d1B6d1eC69498aFecF2fedB22869e
+
+
+Stargate Chain Paths
+The tables below show connected token paths.
+
+Stargate Pool IDs can be found here.
+
+Stargate ERC20 Addresses can be found here.
+
+Each table has two columns.
+- The left column token(s) can be swapped to the right column token(s).
+
+Ethereum
+Copy
+┌───────────────┬──────────────────┐
+│     LOCAL     │      REMOTE      │
+├───────────────┼──────────────────┤
+│ ETHEREUM-USDC │ 'ETHEREUM-USDT'  │
+│ ETHEREUM-USDT │    'BSC-BUSD'    │
+│               │    'BSC-USDT'    │
+│               │ 'AVALANCHE-USDC' │
+│               │ 'AVALANCHE-USDT' │
+│               │  'POLYGON-USDC'  │
+│               │  'POLYGON-USDT'  │
+│               │ 'ARBITRUM-USDC'  │
+│               │ 'ARBITRUM-USDT'  │
+│               │ 'OPTIMISM-USDC'  │
+│               │  'FANTOM-USDC'   │
+│               │   'BASE-USDC'    │
+│               │  'MANTLE-USDC'   │
+│               │  'MANTLE-USDT'   │ 
+└───────────────┴──────────────────┘
+┌───────────────┬──────────────────┐
+│     LOCAL     │      REMOTE      │
+├───────────────┼──────────────────┤
+│  ETHEREUM-DAI │   'POLYGON-DAI'  │
+│               │   'OPTIMISM-DAI' │
+└───────────────┴──────────────────┘
+┌───────────────┬──────────────────┐
+│     LOCAL     │      REMOTE      │
+├───────────────┼──────────────────┤
+│ ETHEREUM-FRAX │ 'AVALANCHE-FRAX' │
+│               │ 'ARBITRUM-FRAX'  │
+│               │ 'OPTIMISM-FRAX'  │
+└───────────────┴──────────────────┘
+┌───────────────┬──────────────────┐
+│     LOCAL     │      REMOTE      │
+├───────────────┼──────────────────┤
+│ ETHEREUM-USDD │    'BSC-USDD'    │
+└───────────────┴──────────────────┘
+┌───────────────┬──────────────────┐
+│     LOCAL     │      REMOTE      │
+├───────────────┼──────────────────┤
+│ ETHEREUM-SGETH│ 'ARBITRUM-SGETH' │
+│               │ 'OPTIMISM-SGETH' │
+│               │   'BASE-SGETH'   │
+│               │  'LINEA-SGETH'   │
+└───────────────┴──────────────────┘
+┌───────────────┬──────────────────┐
+│     LOCAL     │      REMOTE      │
+├───────────────┼──────────────────┤
+│ ETHEREUM-SUSD │ 'OPTIMISM-SUSD'  │
+└───────────────┴──────────────────┘
+┌───────────────┬──────────────────┐
+│     LOCAL     │      REMOTE      │
+├───────────────┼──────────────────┤
+│ ETHEREUM-LUSD │ 'ARBITRUM-LUSD'  │
+│               │ 'OPTIMISM-LUSD'  │
+└───────────────┴──────────────────┘
+┌───────────────┬──────────────────┐
+│     LOCAL     │      REMOTE      │
+├───────────────┼──────────────────┤
+│ ETHEREUM-MAI  │    'BSC-MAI'     │
+│               │ 'AVALANCHE-MAI'  │
+│               │  'POLYGON-MAI'   │
+│               │ 'ARBITRUM-MAI'   │
+│               │ 'OPTIMISM-MAI'   │
+└───────────────┴──────────────────┘
+┌───────────────┬───────────────┐
+│    LOCAL      │    REMOTE     │
+├───────────────┼───────────────┤
+│ETHEREUM-METIS │ 'METIS-METIS' │
+└───────────────┴───────────────┘
+┌───────────────┬───────────────┐
+│    LOCAL      │    REMOTE     │
+├───────────────┼───────────────┤
+│ETHEREUM-m.USDT│ 'METIS-m.USDT'│
+└───────────────┴───────────────┘
+┌───────────────┬──────────────────┐
+│     LOCAL     │      REMOTE      │
+├───────────────┼──────────────────┤
+│ ETHEREUM-mETH │  'MANTLE-mETH'   │
+└───────────────┴──────────────────┘
+BSC
+Copy
+┌──────────┬─────────────────┐
+│  LOCAL   │     REMOTE      │
+├──────────┼─────────────────┤
+│ BSC-BUSD │ 'ETHEREUM-USDC' │
+│ BSC-USDT │ 'ETHEREUM-USDT' │
+│          │ 'AVALANCHE-USDC'│
+│          │ 'AVALANCHE-USDT'│
+│          │  'POLYGON-USDC' │
+│          │  'POLYGON-USDT' │
+│          │ 'ARBITRUM-USDC' │
+│          │ 'ARBITRUM-USDT' │
+│          │ 'OPTIMISM-USDC' │
+│          │  'FANTOM-USDC'  │
+│          │   'BASE-USDC'   │
+│          │  'MANTLE-USDT'  │ 
+└──────────┴─────────────────┘
+┌──────────┬─────────────────┐
+│  LOCAL   │     REMOTE      │
+├──────────┼─────────────────┤
+│ BSC-USDD │ 'ETHEREUM-USDD' │
+└──────────┴─────────────────┘
+┌──────────┬─────────────────┐
+│  LOCAL   │     REMOTE      │
+├──────────┼─────────────────┤
+│ BSC-MAI  │ 'ETHEREUM-MAI'  │
+│          │ 'AVALANCHE-MAI' │
+│          │  'POLYGON-MAI'  │
+│          │ 'ARBITRUM-MAI'  │
+│          │ 'OPTIMISM-MAI'  │
+└──────────┴─────────────────┘
+┌───────────┬──────────────────┐
+│  LOCAL    │     REMOTE       │
+├───────────┼──────────────────┤
+│ BSC-m.USDT│ 'METIS-m.USDT'   │
+└───────────┴──────────────────┘
+Avalanche
+Copy
+┌────────────────┬─────────────────┐
+│     LOCAL      │     REMOTE      │
+├────────────────┼─────────────────┤
+│ AVALANCHE-USDC │ 'ETHEREUM-USDC' │
+│ AVALANCHE-USDT │ 'ETHEREUM-USDT' │
+│                │   'BSC-BUSD'    │
+│                │   'BSC-USDT'    │
+│                │ 'POLYGON-USDC'  │
+│                │ 'POLYGON-USDT'  │
+│                │ 'ARBITRUM-USDC' │
+│                │ 'ARBITRUM-USDT' │
+│                │ 'OPTIMISM-USDC' │
+│                │  'FANTOM-USDC'  │
+│                │   'BASE-USDC'   │
+│                │  'MANTLE-USDC'  │
+│                │  'MANTLE-USDT'  │ 
+└────────────────┴─────────────────┘
+┌────────────────┬─────────────────┐
+│     LOCAL      │     REMOTE      │
+├────────────────┼─────────────────┤
+│ AVALANCHE-FRAX │ 'ETHEREUM-FRAX' │
+│                │ 'ARBITRUM-FRAX' │
+│                │ 'OPTIMISM-FRAX' │
+└────────────────┴─────────────────┘
+┌────────────────┬─────────────────┐
+│     LOCAL      │      REMOTE     │
+├────────────────┼─────────────────┤
+│ AVALANCHE-MAI  │  'ETHEREUM-MAI' │
+│                │    'BSC-MAI'    │
+│                │  'POLYGON-MAI'  │
+│                │  'ARBITRUM-MAI' │
+│                │  'OPTIMISM-MAI' │
+└────────────────┴─────────────────┘
+┌────────────────┬─────────────────┐
+│     LOCAL      │      REMOTE     │
+├────────────────┼─────────────────┤
+│AVALANCHE-m.USDT│ 'METIS-m.USDT'  │
+└────────────────┴─────────────────┘
+Polygon
+Copy
+┌──────────────┬──────────────────┐
+│    LOCAL     │      REMOTE      │
+├──────────────┼──────────────────┤
+│ POLYGON-USDC │ 'ETHEREUM-USDC'  │
+│ POLYGON-USDT │ 'ETHEREUM-USDT'  │
+│              │    'BSC-BUSD'    │
+│              │    'BSC-USDT'    │
+│              │ 'AVALANCHE-USDC' │
+│              │ 'AVALANCHE-USDT' │
+│              │ 'ARBITRUM-USDC'  │
+│              │ 'ARBITRUM-USDT'  │
+│              │ 'OPTIMISM-USDC'  │
+│              │  'FANTOM-USDC'   │
+│              │    'BASE-USDC'   │
+│              │   'MANTLE-USDC'  │
+│              │   'MANTLE-USDT'  │ 
+└──────────────┴──────────────────┘
+┌──────────────┬──────────────────┐
+│    LOCAL     │      REMOTE      │
+├──────────────┼──────────────────┤
+│ POLYGON-DAI  │  'ETHEREUM-DAI'  │
+│              │  'OPTIMISM-DAI'  │
+└──────────────┴──────────────────┘
+┌──────────────┬──────────────────┐
+│    LOCAL     │      REMOTE      │
+├──────────────┼──────────────────┤
+│ POLYGON-MAI  │  'ETHEREUM-MAI'  │
+│              │     'BSC-MAI'    │
+│              │  'AVALANCHE-MAI' │
+│              │  'ARBITRUM-MAI'  │
+│              │  'OPTIMISM-MAI'  │
+└──────────────┴──────────────────┘
+Arbitrum
+Copy
+┌───────────────┬──────────────────┐
+│     LOCAL     │      REMOTE      │
+├───────────────┼──────────────────┤
+│ ARBITRUM-USDC │ 'ETHEREUM-USDC'  │
+│ ARBITRUM-USDT │ 'ETHEREUM-USDT'  │
+│               │    'BSC-BUSD'    │
+│               │    'BSC-USDT'    │
+│               │ 'AVALANCHE-USDC' │
+│               │ 'AVALANCHE-USDT' │
+│               │  'POLYGON-USDC'  │
+│               │  'POLYGON-USDT'  │
+│               │ 'OPTIMISM-USDC'  │
+│               │  'FANTOM-USDC'   │
+│               │   'BASE-USDC'    │
+│               │   'MANTLE-USDC'  │
+│               │   'MANTLE-USDT'  │ 
+└───────────────┴──────────────────┘
+┌───────────────┬──────────────────┐
+│     LOCAL     │      REMOTE      │
+├───────────────┼──────────────────┤
+│ ARBITRUM-FRAX │ 'ETHEREUM-FRAX'  │
+│               │ 'AVALANCHE-FRAX' │
+│               │ 'OPTIMISM-FRAX'  │
+└───────────────┴──────────────────┘
+┌───────────────┬──────────────────┐
+│     LOCAL     │      REMOTE      │
+├───────────────┼──────────────────┤
+│ ARBITRUM-SGETH│ 'ETHEREUM-SGETH' │
+│               │ 'OPTIMISM-SGETH' │
+│               │   'BASE-SGETH'   │
+│               │  'LINEA-SGETH'   │
+└───────────────┴──────────────────┘
+┌───────────────┬─────────────────┐
+│    LOCAL      │     REMOTE      │
+├───────────────┼─────────────────┤
+│ ARBITRUM-LUSD │ 'ETHEREUM-LUSD' │
+│               │ 'OPTIMISM-LUSD' │
+└───────────────┴─────────────────┘
+┌───────────────┬──────────────────┐
+│     LOCAL     │      REMOTE      │
+├───────────────┼──────────────────┤
+│ ARBITRUM-MAI  │  'ETHEREUM-MAI'  │
+│               │     'BSC-MAI'    │
+│               │  'AVALANCHE-MAI' │
+│               │   'POLYGON-MAI'  │
+│               │  'OPTIMISM-MAI'  │
+└───────────────┴──────────────────┘
+Optimism
+Copy
+┌───────────────┬──────────────────┐
+│     LOCAL     │      REMOTE      │
+├───────────────┼──────────────────┤
+│ OPTIMISM-USDC │ 'ETHEREUM-USDC'  │
+│               │ 'ETHEREUM-USDT'  │
+│               │    'BSC-BUSD'    │
+│               │    'BSC-USDT'    │
+│               │ 'AVALANCHE-USDC' │
+│               │ 'AVALANCHE-USDT' │
+│               │  'POLYGON-USDC'  │
+│               │  'POLYGON-USDT'  │
+│               │ 'ARBITRUM-USDC'  │
+│               │ 'ARBITRUM-USDT'  │
+│               │  'FANTOM-USDC'   │
+│               │   'BASE-USDC'    │
+│               │   'MANTLE-USDC'  │
+└───────────────┴──────────────────┘
+┌───────────────┬──────────────────┐
+│     LOCAL     │      REMOTE      │
+├───────────────┼──────────────────┤
+│ OPTIMISM-DAI  │  'ETHEREUM-DAI'  │
+│               │  'POLYGON-DAI'   │
+└───────────────┴──────────────────┘
+┌───────────────┬──────────────────┐
+│     LOCAL     │      REMOTE      │
+├───────────────┼──────────────────┤
+│ OPTIMISM-FRAX │ 'ETHEREUM-FRAX'  │
+│               │ 'AVALANCHE-FRAX' │
+│               │ 'ARBITRUM-FRAX'  │
+└───────────────┴──────────────────┘
+┌───────────────┬──────────────────┐
+│     LOCAL     │      REMOTE      │
+├───────────────┼──────────────────┤
+│ OPTIMISM-SGETH│ 'ETHEREUM-SGETH' │
+│               │ 'ARBITRUM-SGETH' │
+│               │   'BASE-SGETH'   │
+│               │  'LINEA-SGETH'   │
+└───────────────┴──────────────────┘
+┌───────────────┬──────────────────┐
+│     LOCAL     │      REMOTE      │
+├───────────────┼──────────────────┤
+│ OPTIMISM-SUSD │  'ETHEREUM-SUSD' │
+└───────────────┴──────────────────┘
+┌───────────────┬─────────────────┐
+│    LOCAL      │     REMOTE      │
+├───────────────┼─────────────────┤
+│ OPTIMISM-LUSD │ 'ETHEREUM-LUSD' │
+│               │ 'ARBITRUM-LUSD' │
+└───────────────┴─────────────────┘
+┌───────────────┬──────────────────┐
+│     LOCAL     │      REMOTE      │
+├───────────────┼──────────────────┤
+│ OPTIMISM-MAI  │  'ETHEREUM-MAI'  │
+│               │     'BSC-MAI'    │
+│               │  'AVALANCHE-MAI' │
+│               │   'POLYGON-MAI'  │
+│               │  'ARBITRUM-MAI'  │
+└───────────────┴──────────────────┘
+Fantom
+Copy
+┌─────────────┬──────────────────┐
+│     LOCAL   │      REMOTE      │
+├─────────────┼──────────────────┤
+│ FANTOM-USDC │ 'ETHEREUM-USDC'  │
+│             │ 'ETHEREUM-USDT'  │
+│             │    'BSC-BUSD'    │
+│             │    'BSC-USDT'    │
+│             │ 'AVALANCHE-USDC' │
+│             │ 'AVALANCHE-USDT' │
+│             │  'POLYGON-USDC'  │
+│             │  'POLYGON-USDT'  │
+│             │ 'ARBITRUM-USDC'  │
+│             │ 'ARBITRUM-USDT'  │
+│             │ 'OPTIMISM-USDC'  │
+└─────────────┴──────────────────┘
+Metis
+Copy
+┌──────────────┬──────────────────┐
+│    LOCAL     │     REMOTE       │
+├──────────────┼──────────────────┤
+│  METIS-METIS │ 'ETHEREUM-METIS' │
+└──────────────┴──────────────────┘
+┌──────────────┬──────────────────┐
+│    LOCAL     │      REMOTE      │
+├──────────────┼──────────────────┤
+│ METIS-m.USDT │'ETHEREUM-m.USDT' │
+│              │   'BSC-m.USDT'   │
+│              │'AVALANCHE-m.USDT'│
+└──────────────┴──────────────────┘
+Base
+Copy
+┌─────────────┬──────────────────┐
+│     LOCAL   │      REMOTE      │
+├─────────────┼──────────────────┤
+│  BASE-USDC  │ 'ETHEREUM-USDC'  │
+│             │ 'ETHEREUM-USDT'  │
+│             │    'BSC-USDT'    │
+│             │ 'AVALANCHE-USDC' │
+│             │ 'AVALANCHE-USDT' │
+│             │  'POLYGON-USDC'  │
+│             │  'POLYGON-USDT'  │
+│             │ 'ARBITRUM-USDC'  │
+│             │ 'ARBITRUM-USDT'  │
+│             │ 'OPTIMISM-USDC'  │
+│             │   'MANTLE-USDC'  │
+└─────────────┴──────────────────┘
+
+┌───────────────┬──────────────────┐
+│     LOCAL     │      REMOTE      │
+├───────────────┼──────────────────┤
+│   BASE-SGETH  │ 'ETHEREUM-SGETH' │
+│               │ 'ARBITRUM-SGETH' │
+│               │ 'OPTIMISM-SGETH' │
+│               │  'LINEA-SGETH'   │
+└───────────────┴──────────────────┘
+Linea
+Copy
+┌───────────────┬──────────────────┐
+│     LOCAL     │      REMOTE      │
+├───────────────┼──────────────────┤
+│  LINEA-SGETH  │ 'ETHEREUM-SGETH' │
+│               │ 'ARBITRUM-SGETH' │
+│               │ 'OPTIMISM-SGETH' │
+│               │   'BASE-SGETH'   │
+└───────────────┴──────────────────┘
+Kava
+Copy
+┌─────────────┬──────────────────┐
+│     LOCAL   │      REMOTE      │
+├─────────────┼──────────────────┤
+│  KAVA-USDT  │ 'ETHEREUM-USDT'  │
+│             │    'BSC-USDT'    │
+│             │ 'AVALANCHE-USDT' │
+│             │  'POLYGON-USDT'  │
+│             │ 'ARBITRUM-USDT'  │
+│             │ 'OPTIMISM-USDC'  │
+└─────────────┴──────────────────┘
+Mantle
+Copy
+┌──────────────┬──────────────────┐
+│    LOCAL     │      REMOTE      │
+├──────────────┼──────────────────┤
+│  MANTLE-USDC │ 'ETHEREUM-USDC'  │
+│              │ 'AVALANCHE-USDC' │
+│              │  'POLYGON-USDC'  │
+│              │ 'ARBITRUM-USDC'  │
+│              │ 'OPTIMISM-USDC'  │
+│              │    'BASE-USDC'   │
+└──────────────┴──────────────────┘
+
+┌──────────────┬──────────────────┐
+│    LOCAL     │      REMOTE      │
+├──────────────┼──────────────────┤
+│  MANTLE-USDT │ 'ETHEREUM-USDT'  │
+│              │    'BSC-USDT'    │
+│              │ 'AVALANCHE-USDT' │
+│              │  'POLYGON-USDT'  │
+│              │ 'ARBITRUM-USDT'  │
+└──────────────┴──────────────────┘
+┌───────────────┬──────────────────┐
+│     LOCAL     │      REMOTE      │
+├───────────────┼──────────────────┤
+│  MANTLE-mETH  │ 'ETHEREUM-mETH'  │
+└───────────────┴──────────────────┘
+
+targate Composability
+The simplest form of composing Stargate
+
+StargateComposer.sol
+StargateComposer is a wrapper contract used to add additional functionality to Stargate Composed calls. Now contracts that want to compose Stargate will need to call swap via the StargateComposer contract instead of the Stargate Router. The new StargateComposer adds the msg.sender into the payload so the destination sgReceive can now identify the source address that initiated the swap via the _srcAddress.
+
+Composing Stargate will revert on source if not using the StargateComposer.
+
+Drawing
+StargateComposed deployed as a wrapper on both source and destination chains
+
+
+StargateComposer.sol
+Wrapper Contract that wraps IStargateRouter to add additional functionality to Stargate Composed calls.
+
+swap()
+This code snippet shows how the StargateComposer.sol uses the IStargateRouter to swap tokens using Stargate to another chain.
+
+Copy
+/**
+ * @param _dstChainId - destination chain identifier
+ * @param _srcPoolId - source pool identifier
+ * @param _dstPoolId - destination pool identifier
+ * @param _refundAddress - refund address
+ * @param _amountLD - amount (local decimals) to swap on source
+ * @param _minAmountLD - min amount (local decimals) to receive on destination
+ * @param _lzTxParams - struct: dstGasForCall,dstNativeAmount,dstNativeAddr
+ * @param _to - destination address (the sgReceive() implementer)
+ * @param _payload - bytes payload
+ */
+function swap(
+    uint16 _dstChainId,
+    uint256 _srcPoolId,
+    uint256 _dstPoolId,
+    address payable _refundAddress,
+    uint256 _amountLD,
+    uint256 _minAmountLD,
+    IStargateRouter.lzTxObj memory _lzTxParams,
+    bytes calldata _to,
+    bytes calldata _payload
+) external override payable nonSwapReentrant {
+    bytes memory newPayload;
+    bytes memory peer;
+    if(_payload.length > 0) {
+        newPayload = _buildPayload(_to, _payload);
+        peer = _getPeer(_dstChainId);
+
+        // overhead for calling composer's sgReceive()
+        _lzTxParams.dstGasForCall += dstGasReserve + transferOverhead;
+    } else {
+        newPayload = "";
+        peer = _to;
+    }
+
+    if(isEthPool(_srcPoolId)) {
+        require(msg.value > _amountLD, "Stargate: msg.value must be > _swapAmount.amountLD");
+        IStargateEthVault(stargateEthVaults[_srcPoolId]).deposit{value: _amountLD}();
+        IStargateEthVault(stargateEthVaults[_srcPoolId]).approve(address(stargateRouter), _amountLD);
+    } else {
+        PoolInfo memory poolInfo = _getPoolInfo(_srcPoolId);
+        // remove dust
+        if (poolInfo.convertRate > 1) _amountLD = _amountLD.div(poolInfo.convertRate).mul(poolInfo.convertRate);
+        // transfer token to this contract
+        IERC20(poolInfo.token).safeTransferFrom(msg.sender, address(this), _amountLD);
+    }
+
+    stargateRouter.swap{value: isEthPool(_srcPoolId) ? msg.value - _amountLD : msg.value}(
+        _dstChainId,
+        _srcPoolId,
+        _dstPoolId,
+        _refundAddress,
+        _amountLD,
+        _minAmountLD,
+        _lzTxParams,
+        peer, // swap the to address with the peer address
+        newPayload
+    );
+}
+buildPayload()
+In the swap function it calls buildPayload to include the msg.sender in the payload.
+
+Copy
+ function _buildPayload(
+    bytes calldata _to,
+    bytes calldata _payload
+) internal view returns (bytes memory) {
+    require(_to.length == 20, "Stargate: invalid to address");
+
+    // new payload = to(20) + sender(20) + payload
+    // encoding the sender allows the receiver to know who called the Stargate
+    return abi.encodePacked(_to, msg.sender, _payload);
+}
+sgReceive()
+StargateComposer.sol implements IStargateReceiver so it can implement the sgReceive function and receive the tokens and payload from the IStargateRouter on the destination chain. It then forwards the sgReceive call to the intended receiver with the original msg.sender who initialed the swap on source.
+
+Copy
+/**
+ * @param _srcChainId - source chain identifier
+ * @param _srcAddress - source address identifier
+ * @param _nonce - message ordering nonce
+ * @param _token - token contract
+ * @param _amountLD - amount (local decimals) to recieve 
+ * @param _payload - bytes containing the toAddress
+ */
+function sgReceive(
+    uint16 _srcChainId,
+    bytes memory _srcAddress,
+    uint256 _nonce,
+    address _token,
+    uint256 _amountLD,
+    bytes memory _payload
+) external override {
+    require(msg.sender == address(stargateRouter), "Stargate: only router");
+    // will just ignore the payload in some invalid configuration
+    if (_payload.length <= 40) return; // 20 + 20 + payload
+
+    address intendedReceiver = _payload.toAddress(0);
+
+    (bool success, bytes memory data) = _token.call(abi.encodeWithSelector(SELECTOR, intendedReceiver, _amountLD));
+    if (success && (data.length == 0 || abi.decode(data, (bool)))) {
+        if (!intendedReceiver.isContract()) return; // ignore
+
+        bytes memory callData = abi.encodeWithSelector(
+            IStargateReceiver.sgReceive.selector,
+            _srcChainId,
+            abi.encodePacked(_payload.toAddress(20)), // use the caller as the srcAddress (the msg.sender caller the StargateComposer at the source)
+            _nonce,
+            _token,
+            _amountLD,
+            _payload.slice(40, _payload.length - 40)
+        );
+
+        // no point in requires, because it will revert regardless
+        uint256 externalGas = gasleft() - dstGasReserve;
+
+        (bool safeCallSuccess, bytes memory reason) = intendedReceiver.safeCall(externalGas, 0, 150, callData); // only return 150 bytes of data
+
+        if (!safeCallSuccess) {
+            payloadHashes[_srcChainId][_srcAddress][_nonce] = keccak256(abi.encodePacked(intendedReceiver, callData));
+            emit CachedSwapSaved(_srcChainId, _srcAddress, _nonce, reason);
+        }
+
+    } else {
+        // do nothing, token swap failed and can't be delivered, tokens are held inside this contract
+        emit ComposedTokenTransferFailed(_token, intendedReceiver, _amountLD);
+    }
+}
+
+
+
+
+
+StargateComposed.sol
+Leverage Stargate to perform additional smart contract logic on the destination chain!
+
+To test Stargate Composability you can mint yourself testnet tokens using the addresses found on the Test Faucet page.
+
+This contract is an example of the power of composability. A contract on the source chain composes an AMM and Stargate, and a destination contract which has access to an AMM implements sgReceive() receives the tokens and a payload to perform additional logic.
+
+swapNativeForNative()
+The StargateComposed.sol contract can swap native on the source chain for native on the destination chain. To swap tokens to another chain using Stargate this contract must use the StargateComposer.sol to interact with Stargate. This code snippet shows how the contract uses it to swap native on the source chain for native on the destination chain.
+
+Warning: When composing, Do Not swap() real funds to a contract address that does not implement sgReceive() or your *will* lose those funds.
+
+Copy
+/// @param dstChainId The message ordering nonce
+/// @param bridgeToken The remote Bridge address
+/// @param srcPoolId The token contract on the local chain
+/// @param dstPoolId The qty of local _token contract tokens  
+/// @param nativeAmountIn The amount of native token coming in on source  
+/// @param to The address to send the destination tokens to
+/// @param amountOutMin The minimum amount of stargatePoolId token to get out of amm router
+/// @param amountOutMinSg The minimum amount of stargatePoolId token to get out on destination chain
+/// @param amountOutMinDest The minimum amount of native token to receive on destination
+/// @param deadline The overall deadline
+/// @param destStargateComposed The destination contract address that must implement sgReceive()
+function swapNativeForNative(
+    uint16 dstChainId,                      
+    address bridgeToken,                    
+    uint16 srcPoolId,                       
+    uint16 dstPoolId,                       
+    uint nativeAmountIn,                    
+    address to,                             
+    uint amountOutMin,                      
+    uint amountOutMinSg,                    
+    uint amountOutMinDest,                  
+    uint deadline,                          
+    address destStargateComposed            
+)
+Use the AMM Router
+Using the amm router, swap native into the Stargate pool token, sending the output token to this contract.
+
+Copy
+// special token value that indicates the sgReceive() should swap OUT native asset
+address public OUT_TO_NATIVE = 0x0000000000000000000000000000000000000000;
+
+uint bridgeAmount;
+// using the amm router, swap native into the Stargate pool token, sending the output token to this contract
+{
+    // create path[] for amm swap
+    address[] memory path = new address[](2);
+    path[0] = IUniswapV2Router02(ammRouter).WETH();    // native IN requires that we specify the WETH in path[0]
+    path[1] = bridgeToken;                             // the bridge token,
+
+    uint[] memory amounts = IUniswapV2Router02(ammRouter).swapExactETHForTokens{value:nativeAmountIn}(
+        amountOutMin,
+        path,
+        address(this),
+        deadline
+    );
+
+    bridgeAmount = amounts[1];
+    require(bridgeAmount > 0, 'error: ammRouter gave us 0 tokens to swap() with stargate');
+
+    // this contract needs to approve the stargateComposer to spend its path[1] token!
+    IERC20(bridgeToken).approve(address(stargateComposer), bridgeAmount);
+}
+
+// encode payload data to send to destination contract, which it will handle with sgReceive()
+bytes memory data;
+{
+    data = abi.encode(OUT_TO_NATIVE, deadline, amountOutMinDest, to);
+}
+StargateComposer.swap()
+Call StargateComposer swap() to send the tokens to the destination chain.
+
+Copy
+IStargateRouter(stargateComposer).swap{value:msg.value.sub(nativeAmountIn)}(
+    dstChainId,                                     // the destination chain id
+    srcPoolId,                                      // the source Stargate poolId
+    dstPoolId,                                      // the destination Stargate poolId
+    payable(msg.sender),                            // refund adddress. if msg.sender pays too much gas, return extra eth
+    bridgeAmount,                                   // total tokens to send to destination chain
+    amountOutMinSg,                                 // minimum
+    IStargateRouter.lzTxObj(500000, 0, "0x"),       // 500,000 for the sgReceive()
+    abi.encodePacked(destStargateComposed),         // destination address, the sgReceive() implementer
+    data                                            // bytes payload
+);
+sgReceive()
+StargateComposed.sol implements IStargateReceiver so it can implement the sgReceive function to receive the tokens and payload.
+
+Copy
+/// @param _chainId The remote chainId sending the tokens
+/// @param _srcAddress The address of the msg.sender who initiated the swap
+/// @param _nonce The message ordering nonce
+/// @param _token The token contract on the local chain
+/// @param amountLD The qty of local _token contract tokens  
+/// @param _payload The bytes containing the _tokenOut, _deadline, _amountOutMin, _toAddr
+function sgReceive(
+    uint16 _chainId, 
+    bytes memory _srcAddress, 
+    uint _nonce, 
+    address _token, 
+    uint amountLD, 
+    bytes memory payload
+)
+Unpack payload, approve, get pre balance of toAddress
+Unpack the payload to get _tokenOut,_deadline,_amountOutMin,_toAddr. Approve the amm router so it can swap our tokens. Get the pre balance of the _toAddr to emit an event of exact amount sent.
+
+Copy
+(address _tokenOut, uint _deadline, uint _amountOutMin, address _toAddr) = abi.decode(payload, (address, uint, uint, address));
+
+IERC20(_token).approve(address(ammRouter), amountLD);
+
+uint _toBalancePreTransferOut = address(_toAddr).balance;
+If _tokenOut is the Zero Address they will get native token
+Use the amm router to swap the incoming bridge token into native token
+
+Copy
+if(_tokenOut == address(0x0)){
+    address[] memory path = new address[](2);
+    path[0] = _token;
+    path[1] = IUniswapV2Router02(ammRouter).WETH();
+
+    try IUniswapV2Router02(ammRouter).swapExactTokensForETH(
+        amountLD,           // the stable received from stargate at the destination
+        _amountOutMin,      // slippage param, min amount native token out
+        path,               // path[0]: stabletoken address, path[1]: WETH from sushi router
+        _toAddr,            // the address to send the *out* native to
+        _deadline           // the unix timestamp deadline
+    ) {
+        emit ReceivedOnDestination(
+            OUT_TO_NATIVE, 
+            address(_toAddr).balance.sub(_toBalancePreTransferOut)
+        );
+    } catch {
+        IERC20(_token).transfer(_toAddr, amountLD);
+        emit ReceivedOnDestination(_token, amountLD);
+    }
+}
+Else they will get ERC20 token
+Use the amm router to swap the incoming bridge token into an ERC20 token
+
+Copy
+else {
+    uint _toAddrTokenBalancePre = IERC20(_tokenOut).balanceOf(_toAddr);
+    address[] memory path = new address[](2);
+    path[0] = _token;
+    path[1] = _tokenOut;
+    try IUniswapV2Router02(ammRouter).swapExactTokensForTokens(
+        amountLD,       // the stable received from stargate at the destination
+        _amountOutMin,  // slippage param, min amount native token out
+        path,           // path[0]: stabletoken address, path[1]: WETH from sushi router
+        _toAddr,        // the address to send the *out* tokens to
+        _deadline       // the unix timestamp deadline
+    ) {
+        emit ReceivedOnDestination(_tokenOut, IERC20(_tokenOut).balanceOf(_toAddr).sub(_toAddrTokenBalancePre));
+    } catch {
+        IERC20(_token).transfer(_toAddr, amountLD);
+        emit ReceivedOnDestination(_token, amountLD);
+    }
+}
+
+addLiquidity()
+Loan your ERC20 tokens to Stargate and earn fees!
+
+addLiquidity() empowers users to earn fees by loaning their ERC20 tokens to the Stargate protocol. It's as easy as calling addLiquidity().
+
+Heres a description of the arguments:
+
+Copy
+function addLiquidity(
+    uint _poolId,         // the stargate poolId representing the specific ERC20 token
+    uint256 _amountLD,    // the amount to loan. quantity in local decimals
+    address _to           // the address to receive the LP token. ie: shares of the pool
+)
+
+
+redeemLocal()
+Removing user liquidity on local chain.
+
+Description of the arguments of redeemLocal()
+
+Copy
+function redeemLocal(
+    uint16 _dstChainId,             // the chainId to remove liquidity
+    uint256 _srcPoolId,             // the source poolId
+    uint256 _dstPoolId,             // the destination poolId
+    address payable _refundAddress, // refund extra native gas to this address
+    uint256 _amountLP,              // quantity of LP tokens to redeem
+    bytes calldata _to,             // address to send the redeemed poolId tokens
+    lzTxObj memory _lzTxParams      // adpater parameters 
+) external payable override nonReentrant { 
+
+
+redeemRemote()
+Removing user liquidity across multiple chains.
+
+Description of the arguments of redeemRemote()
+
+Copy
+function redeemRemote(
+    uint16 _dstChainId,             // the chainId to remove liquidity
+    uint256 _srcPoolId,             // the source poolId
+    uint256 _dstPoolId,             // the destination poolId
+    address payable _refundAddress, // refund extra native gas to this address
+    uint256 _amountLP,              // quantity of LP tokens to redeem
+    uint256 _minAmountLD,           // slippage amount in local decimals
+    bytes calldata _to,             // the address to redeem the poolId asset to
+    lzTxObj memory _lzTxParams      // adpater parameters 
+) 
+
+
+
+sendCredits()
+Part of the Delta-Algorithm implementation. Shares state information with destination chainId.
+
+Description of arguments of sendCredits():
+
+Copy
+function sendCredits(
+    uint16 _dstChainId,             // destination chainId
+    uint256 _srcPoolId,             // source poolId
+    uint256 _dstPoolId,             // destination poolId
+    address payable _refundAddress  // refund extra native gas to this address
+)
+
+
+
+IStargateRouter.sol
+The primary interface to interact with Stargate.
+
+Copy
+// SPDX-License-Identifier: BUSL-1.1
+
+pragma solidity 0.7.6;
+pragma abicoder v2;
+
+interface IStargateRouter {
+    struct lzTxObj {
+        uint256 dstGasForCall;
+        uint256 dstNativeAmount;
+        bytes dstNativeAddr;
+    }
+
+    function addLiquidity(
+        uint256 _poolId,
+        uint256 _amountLD,
+        address _to
+    ) external;
+
+    function swap(
+        uint16 _dstChainId,
+        uint256 _srcPoolId,
+        uint256 _dstPoolId,
+        address payable _refundAddress,
+        uint256 _amountLD,
+        uint256 _minAmountLD,
+        lzTxObj memory _lzTxParams,
+        bytes calldata _to,
+        bytes calldata _payload
+    ) external payable;
+
+    function redeemRemote(
+        uint16 _dstChainId,
+        uint256 _srcPoolId,
+        uint256 _dstPoolId,
+        address payable _refundAddress,
+        uint256 _amountLP,
+        uint256 _minAmountLD,
+        bytes calldata _to,
+        lzTxObj memory _lzTxParams
+    ) external payable;
+
+    function instantRedeemLocal(
+        uint16 _srcPoolId,
+        uint256 _amountLP,
+        address _to
+    ) external returns (uint256);
+
+    function redeemLocal(
+        uint16 _dstChainId,
+        uint256 _srcPoolId,
+        uint256 _dstPoolId,
+        address payable _refundAddress,
+        uint256 _amountLP,
+        bytes calldata _to,
+        lzTxObj memory _lzTxParams
+    ) external payable;
+
+    function sendCredits(
+        uint16 _dstChainId,
+        uint256 _srcPoolId,
+        uint256 _dstPoolId,
+        address payable _refundAddress
+    ) external payable;
+
+    function quoteLayerZeroFee(
+        uint16 _dstChainId,
+        uint8 _functionType,
+        bytes calldata _toAddress,
+        bytes calldata _transferAndCallPayload,
+        lzTxObj memory _lzTxParams
+    ) external view returns (uint256, uint256);
+}
+
+
+IStargateReceiver.sol
+A contract that implements sgReceive() can perform powerful logic on the receiving chain.
+
+This interface should be implemented by contracts that receive a swap():
+
+Copy
+// SPDX-License-Identifier: BUSL-1.1
+
+pragma solidity 0.7.6;
+
+interface IStargateReceiver {
+    function sgReceive(
+        uint16 _srcChainId,              // the remote chainId sending the tokens
+        bytes memory _srcAddress,        // the remote Bridge address
+        uint256 _nonce,                  
+        address _token,                  // the token contract on the local chain
+        uint256 amountLD,                // the qty of local _token contract tokens  
+        bytes memory payload
+    ) external;
+}
+This is a very powerful feature of Stargate, because with it you can perform additional logic upon receiving tokens on the destination chain! 
+
+As an example of something the LayerZero team built using IStargateReceiver, we used an AMM to swapExactTokensForTokens() using the Stargate swap()'ed USDC into native token on the destination chain.
+
+
+Multisigs
+Stargate Multisig Addresses
+
+Ethereum
+0x65bb797c2B9830d891D87288F029ed8dACc19705
+
+BNB Chain
+0x6e690075eedBC52244Dd4822D9F7887d4f27442F
+
+Avalanche
+0x2B065946d41ADf43BBc3BaF8118ae94Ed19D7A40
+
+Polygon
+0x47290DE56E71DC6f46C26e50776fe86cc8b21656
+
+Arbitrum
+0x9CD50907aeb5D16F29Bddf7e1aBb10018Ee8717d
+
+Optimism
+0x392AC17A9028515a3bFA6CCe51F8b70306C6bd43
+
+Fantom
+0x2351BBCb7cF7Ee9D18AF2Be0d106BFc5D47A9E85
+
+Metis
+0x90c3DFD4Ea593336DBB9F925f73413e6EE84c90E
+
+Base
+0x81eab64e630c4a2e3e849268a6b64cb76d1c8109
+
+Linea
+0xdBd9E7f55C3a7A0F17cCAc06dD4f4cbf06f7AD5c
+
+Kava
+0x424aCEFcd5E9fE8329e3530a214C5e88375b542f
