@@ -1,8 +1,17 @@
 import requests
+import json
 from web3 import Web3
-from constants import STARGATE_CONTRACTS
-from abi.stargate_composer import STARGATE_COMPOSER_ABI
-from abi.stargate_router import STARGATE_ROUTER_ABI
+from program.backend.config.constants import STARGATE_CONTRACTS
+
+
+
+# Load the StargateComposer ABI
+with open("abi/stargate_composer.json") as f:
+    STARGATE_COMPOSER_ABI = json.load(f)
+
+# Load the StargateRouter ABI
+with open("abi/stargate_router.json") as f:
+    STARGATE_ROUTER_ABI = json.load(f)
 
 def bridge_tokens(from_chain, to_chain, token, amount):
   try:

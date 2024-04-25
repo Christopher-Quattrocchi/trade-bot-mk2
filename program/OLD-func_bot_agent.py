@@ -1,7 +1,7 @@
-from func_private import place_market_order, check_order_status
+from program.backend.exchanges.private_data import place_market_order, check_order_status
 from datetime import datetime, timedelta
 import time
-from func_messaging import send_message
+from program.backend.messaging.telegram import send_message
 
 from pprint import pprint
 

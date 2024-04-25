@@ -1,8 +1,8 @@
-from func_connections import connect_exchanges
-from func_public import construct_market_prices
-from func_arbitrage import find_arbitrage_opportunities
-from func_entry_pairs import open_arbitrage_positions
-from func_exit_pairs import manage_arbitrage_exits
+from program.backend.exchanges.connections import connect_exchanges
+from program.backend.exchanges.public_data import construct_market_prices
+from program.backend.arbitrage.analysis import find_arbitrage_opportunities
+from program.backend.arbitrage.entry import open_arbitrage_positions
+from program.backend.arbitrage.exit import manage_arbitrage_exits
 import ccxt
 
 # Define the list of trading pairs to monitor

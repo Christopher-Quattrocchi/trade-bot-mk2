@@ -1,0 +1,63 @@
++---------------------------+
+|        Frontend          |
++---------------------------+
+| - User Interface         |
+| - Market Prices          |
+| - Arbitrage Opportunities|
+| - Trading Pairs          |
+| - Bot Settings           |
+| - Notifications          |
++---------------------------+
+            |
+            | API Requests
+            |
++---------------------------+
+|        Backend           |
++---------------------------+
+| - Flask App              |
+| - API Endpoints          |
+|   - /prices              |
+|   - /arbitrage           |
+|   - /trade               |
+|   - /settings            |
+| - Request Handling       |
++---------------------------+
+            |
+            | Function Calls
+            |
++---------------------------+
+|        Main Bot          |
++---------------------------+
+| - Bot Orchestration      |
+| - Start/Stop Bot         |
+| - Execute Trades         |
++---------------------------+
+            |
+            | Function Calls
+            |
++---------------------------+      +---------------------------+
+|        Arbitrage         |      |        Exchanges         |
++---------------------------+      +---------------------------+
+| - Find Opportunities     |      | - Exchange Connections   |
+| - Open Positions         |      | - Fetch Market Prices    |
+| - Manage Position Exits  |      | - Place Orders           |
++---------------------------+      | - Cancel Orders          |
+                                   +---------------------------+
+                                              |
+                                              | Function Calls
+                                              |
+                                   +---------------------------+
+                                   |          Bridge          |
+                                   +---------------------------+
+                                   | - Token Bridging         |
+                                   | - Stargate Protocol      |
+                                   +---------------------------+
+                                              |
+                                              | Function Calls
+                                              |
+                                   +---------------------------+
+                                   |        Messaging         |
+                                   +---------------------------+
+                                   | - Telegram Notifications |
+                                   | - Error Handling         |
+                                   +---------------------------+
