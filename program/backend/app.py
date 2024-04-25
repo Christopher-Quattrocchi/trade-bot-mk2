@@ -3,6 +3,7 @@ from flask_jwt_extended import JWTManager
 from auth.auth import auth_bp
 from user.user import user_bp
 from models import db
+from dex.dex import dex_bp
 
 app = Flask(__name__)
 app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///app.db'  # Update with your database URI
@@ -13,6 +14,7 @@ db.init_app(app)
 
 app.register_blueprint(auth_bp)
 app.register_blueprint(user_bp)
+app.register_blueprint(dex_bp)
 
 @app.route('/')
 def home():

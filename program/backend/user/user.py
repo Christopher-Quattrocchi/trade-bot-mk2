@@ -1,6 +1,6 @@
-from flask import Blueprint, jsonify, request
+from flask import Blueprint, jsonify
 from flask_jwt_extended import jwt_required, get_jwt_identity
-from models import User, db
+from models import User
 
 user_bp = Blueprint('user', __name__, url_prefix='/api/user')
 
@@ -14,7 +14,7 @@ def get_profile():
         return jsonify({'username': user.username, 'email': user.email}), 200
     
     return jsonify({'message': 'User not found'}), 404
-
+  
 @user_bp.route('/profile', methods=['PUT'])
 @jwt_required()
 def update_profile():

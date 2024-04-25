@@ -19,3 +19,12 @@ class User(db.Model):
 
     def check_password(self, password):
         return check_password_hash(self.password_hash, password)
+      
+class DEXAccount(db.Model):
+    id = db.Column(db.Integer, primary_key=True)
+    user_id = db.Column(db.Integer, db.ForeignKey('user.id'), nullable=False)
+    exchange_name = db.Column(db.String(50), nullable=False)
+    api_key = db.Column(db.String(255), nullable=False)
+    api_secret = db.Column(db.String(255), nullable=False)
+
+    user = db.relationship('User', backref=db.backref('dex_accounts', lazy=True))
