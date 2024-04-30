@@ -1,3 +1,4 @@
+#This file needs to be removed or reworked
 from decouple import config
 import ccxt
 

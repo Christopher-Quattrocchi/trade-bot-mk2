@@ -1,3 +1,4 @@
+#Probably don't want this anymore - Behavior should be explicitly user directed
 def find_arbitrage_opportunities(market_prices, min_profit_percentage):
     opportunities = []
 
