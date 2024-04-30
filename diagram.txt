@@ -61,3 +61,65 @@
                                    | - Telegram Notifications |
                                    | - Error Handling         |
                                    +---------------------------+
+
+
+
+The Frontend interacts with the Backend through API requests.
+The Backend handles the API requests, processes the data, and communicates with the Main Bot.
+The Main Bot orchestrates the overall functionality, starts/stops the bot, and executes trades.
+The Arbitrage module finds arbitrage opportunities, opens positions, and manages position exits.
+The Exchanges module handles exchange connections, fetches market prices, places orders, and cancels orders.
+The Bridge module facilitates token bridging using the Stargate protocol.
+The Messaging module handles Telegram notifications and error handling.
+
+To further elaborate on each component, you can include relevant parameters, functions, and key considerations:
+
+Frontend:
+
+User interface design and components
+Display of market prices, arbitrage opportunities, and trading pairs
+Bot settings configuration
+Notification handling
+
+
+Backend:
+
+Flask application setup
+API endpoint definitions (/prices, /arbitrage, /trade, /settings)
+Request parsing and response formatting
+Integration with the Main Bot
+
+
+Main Bot:
+
+Bot initialization and teardown
+Trade execution logic
+Coordination of Arbitrage, Exchanges, Bridge, and Messaging modules
+
+
+Arbitrage:
+
+Market analysis and opportunity identification
+Position opening and management
+Exit strategy implementation
+
+
+Exchanges:
+
+Exchange API connections (API keys, secrets, etc.)
+Market data retrieval (prices, balances)
+Order placement and cancellation
+
+
+Bridge:
+
+Token bridging using Stargate protocol
+Interaction with smart contracts
+Cross-chain communication
+
+
+Messaging:
+
+Telegram bot integration
+Notification sending
+Error handling and reporting
