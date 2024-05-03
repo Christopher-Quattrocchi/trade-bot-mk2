@@ -1,0 +1,10 @@
+ccxt==4.3.14
+Flask==3.0.3
+Flask_JWT_Extended==4.6.0
+flask_sqlalchemy==3.1.1
+pandas==2.2.2
+program==0.0.1a0
+python-decouple==3.8
+Requests==2.31.0
+web3==6.18.0
+Werkzeug==3.0.2
