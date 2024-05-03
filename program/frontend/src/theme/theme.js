@@ -3,7 +3,7 @@ import CssBaseline from '@mui/material/CssBaseline';
 
 const theme = createTheme({
   palette: {
-    mode: 'dark',  // Switching to dark mode
+    mode: 'dark',  
     primary: {
       main: '#556cd6',
     },
@@ -13,13 +13,5 @@ const theme = createTheme({
   },
 });
 
-function App() {
-  return (
-    <ThemeProvider theme={theme}>
-      <CssBaseline />  
-      <YourComponent />  
-    </ThemeProvider>
-  );
-}
 
-export default App;
+export default theme;
