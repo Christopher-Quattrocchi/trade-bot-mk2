@@ -5,18 +5,24 @@ const api = axios.create({
 });
 
 export const login = async (username, password) => {
-  const response = await api.post('/auth/login', { username, password });
-  localStorage.setItem('token', response.data.access_token);
-  return response.data;
+  try {
+    const { data } = await api.post('/auth/login', { username, password });
+    localStorage.setItem('token', data.access_token);
+    return data;
+  } catch (error) {
+    console.error('Error during login:', error);
+    throw error; // Rethrow the error for further handling
+  }
 };
 
 export const register = async (username, email, password) => {
-  const response = await api.post('/auth/register', {
-    username,
-    email,
-    password,
-  });
-  return response.data;
+  try {
+    const { data } = await api.post('/auth/register', { username, email, password });
+    return data;
+  } catch (error) {
+    console.error('Error during registration:', error);
+    throw error; // Rethrow the error for further handling
+  }
 };
 
 export const logout = () => {

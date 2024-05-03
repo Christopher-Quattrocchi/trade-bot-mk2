@@ -1,4 +1,5 @@
 from func_bridge import bridge_tokens
+from stargate_swap import stargate_swap
 
 def open_arbitrage_position(exchange_buy, exchange_sell, symbol, amount, buy_price, sell_price):
     try:
@@ -7,10 +8,14 @@ def open_arbitrage_position(exchange_buy, exchange_sell, symbol, amount, buy_pri
         print(f"Buy order placed on {exchange_buy.name}: {buy_order}")
 
         # Bridge the tokens to the destination chain
-        from_chain = exchange_buy.chain
-        to_chain = exchange_sell.chain
+        from_chain = exchange_buy.chain_id
+        to_chain = exchange_sell.chain_id
         token = exchange_buy.market(symbol)['info']
-        bridge_tokens(from_chain, to_chain, token, amount)
+        src_pool_id = TOKEN_POOL_IDS[token['symbol']][from_chain]
+        dst_pool_id = TOKEN_POOL_IDS[token['symbol']][to_chain]
+        wallet_address = "YOUR_WALLET_ADDRESS"
+        private_key = "YOUR_PRIVATE_KEY"
+        stargate_swap(to_chain, src_pool_id, dst_pool_id, amount, wallet_address, private_key)
 
         # Place sell order on the sell exchange
         sell_order = exchange_sell.create_market_sell_order(symbol, amount)

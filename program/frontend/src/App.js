@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Login from './components/Auth/Login';
 import Register from './components/Auth/Register';
 import ProfileInfo from './components/Profile/ProfileInfo';
@@ -16,16 +16,16 @@ const App = () => {
     <Router>
       <div>
         <Header />
-        <Switch>
-          <Route exact path="/" component={Login} />
-          <Route path="/register" component={Register} />
-          <Route path="/profile" component={ProfileInfo} />
-          <Route path="/update-profile" component={UpdateProfile} />
-          <Route path="/connect-dex" component={ConnectDEX} />
-          <Route path="/dex-accounts" component={DEXAccounts} />
-          <Route path="/dex-balances" component={DEXBalances} />
-          <Route path="/arbitrage-opportunities" component={ArbitrageOpportunities} />
-        </Switch>
+        <Routes>
+          <Route path="/" element={<Login />} />
+          <Route path="/register" element={<Register />} />
+          <Route path="/profile" element={<ProfileInfo />} />
+          <Route path="/update-profile" element={<UpdateProfile />} />
+          <Route path="/connect-dex" element={<ConnectDEX />} />
+          <Route path="/dex-accounts" element={<DEXAccounts />} />
+          <Route path="/dex-balances" element={<DEXBalances />} />
+          <Route path="/arbitrage-opportunities" element={<ArbitrageOpportunities />} />
+        </Routes>
         <Footer />
       </div>
     </Router>
