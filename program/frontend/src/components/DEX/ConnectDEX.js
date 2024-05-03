@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import { Box, Typography, TextField, Button } from '@mui/material';
 import { connectDEXAccount } from '../../services/api';
 
 const ConnectDEX = () => {
@@ -17,30 +18,57 @@ const ConnectDEX = () => {
   };
 
   return (
-    <div>
-      <h2>Connect DEX Account</h2>
+    <Box
+      sx={{
+        display: 'flex',
+        flexDirection: 'column',
+        alignItems: 'center',
+        maxWidth: 400,
+        mx: 'auto',
+        my: 4,
+        p: 4,
+        bgcolor: 'background.paper',
+        borderRadius: 2,
+        boxShadow: 2,
+      }}
+    >
+      <Typography variant="h5" component="h1" gutterBottom>
+        Connect DEX Account
+      </Typography>
       <form onSubmit={handleConnectDEX}>
-        <input
-          type="text"
-          placeholder="Exchange Name"
+        <TextField
+          label="Exchange Name"
           value={exchangeName}
           onChange={(e) => setExchangeName(e.target.value)}
+          margin="normal"
+          fullWidth
         />
-        <input
-          type="text"
-          placeholder="API Key"
+        <TextField
+          label="API Key"
           value={apiKey}
           onChange={(e) => setApiKey(e.target.value)}
+          margin="normal"
+          fullWidth
         />
-        <input
-          type="text"
-          placeholder="API Secret"
+        <TextField
+          label="API Secret"
+          type="password"
           value={apiSecret}
           onChange={(e) => setApiSecret(e.target.value)}
+          margin="normal"
+          fullWidth
         />
-        <button type="submit">Connect DEX Account</button>
+        <Button
+          type="submit"
+          variant="contained"
+          color="primary"
+          fullWidth
+          sx={{ mt: 2 }}
+        >
+          Connect DEX Account
+        </Button>
       </form>
-    </div>
+    </Box>
   );
 };
 

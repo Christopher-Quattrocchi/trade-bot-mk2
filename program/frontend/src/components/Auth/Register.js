@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import { Box, Typography, TextField, Button } from '@mui/material';
 import { register } from '../../services/auth';
 
 const Register = () => {
@@ -17,30 +18,58 @@ const Register = () => {
   };
 
   return (
-    <div>
-      <h2>Register</h2>
+    <Box
+      sx={{
+        display: 'flex',
+        flexDirection: 'column',
+        alignItems: 'center',
+        maxWidth: 400,
+        mx: 'auto',
+        my: 4,
+        p: 4,
+        bgcolor: 'background.paper',
+        borderRadius: 2,
+        boxShadow: 2,
+      }}
+    >
+      <Typography variant="h5" component="h1" gutterBottom>
+        Register
+      </Typography>
       <form onSubmit={handleRegister}>
-        <input
-          type="text"
-          placeholder="Username"
+        <TextField
+          label="Username"
           value={username}
           onChange={(e) => setUsername(e.target.value)}
+          margin="normal"
+          fullWidth
         />
-        <input
+        <TextField
+          label="Email"
           type="email"
-          placeholder="Email"
           value={email}
           onChange={(e) => setEmail(e.target.value)}
+          margin="normal"
+          fullWidth
         />
-        <input
+        <TextField
+          label="Password"
           type="password"
-          placeholder="Password"
           value={password}
           onChange={(e) => setPassword(e.target.value)}
+          margin="normal"
+          fullWidth
         />
-        <button type="submit">Register</button>
+        <Button
+          type="submit"
+          variant="contained"
+          color="primary"
+          fullWidth
+          sx={{ mt: 2 }}
+        >
+          Register
+        </Button>
       </form>
-    </div>
+    </Box>
   );
 };
 

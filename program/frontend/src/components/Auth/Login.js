@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import { Box, Typography, TextField, Button } from '@mui/material';
 import { login } from '../../services/auth';
 
 const Login = () => {
@@ -16,24 +17,50 @@ const Login = () => {
   };
 
   return (
-    <div>
-      <h2>Login</h2>
+    <Box
+      sx={{
+        display: 'flex',
+        flexDirection: 'column',
+        alignItems: 'center',
+        maxWidth: 400,
+        mx: 'auto',
+        my: 4,
+        p: 4,
+        bgcolor: 'background.paper',
+        borderRadius: 2,
+        boxShadow: 2,
+      }}
+    >
+      <Typography variant="h5" component="h1" gutterBottom>
+        Login
+      </Typography>
       <form onSubmit={handleLogin}>
-        <input
-          type="text"
-          placeholder="Username"
+        <TextField
+          label="Username"
           value={username}
           onChange={(e) => setUsername(e.target.value)}
+          margin="normal"
+          fullWidth
         />
-        <input
+        <TextField
+          label="Password"
           type="password"
-          placeholder="Password"
           value={password}
           onChange={(e) => setPassword(e.target.value)}
+          margin="normal"
+          fullWidth
         />
-        <button type="submit">Login</button>
+        <Button
+          type="submit"
+          variant="contained"
+          color="primary"
+          fullWidth
+          sx={{ mt: 2 }}
+        >
+          Login
+        </Button>
       </form>
-    </div>
+    </Box>
   );
 };
 

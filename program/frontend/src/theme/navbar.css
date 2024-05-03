@@ -1,0 +1,29 @@
+@import '@material-ui/core/styles';
+
+.navbar {
+  background-color: #f8f9fa;
+  border-bottom: 1px solid #e9ecef;
+}
+
+.navbar-brand {
+  font-size: 1.25rem;
+  font-weight: 500;
+}
+
+.navbar-nav {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.navbar-nav > * {
+  margin-left: 1rem;
+}
+
+.navbar-nav > *:first-child {
+  margin-left: 0;
+}
+
+.navbar-nav > *:last-child {
+  margin-right: 0;
+}

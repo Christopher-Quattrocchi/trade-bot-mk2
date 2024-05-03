@@ -1,17 +1,22 @@
 import React from 'react';
+import { AppBar, Toolbar, Typography, Button } from '@mui/material';
+import { Link } from 'react-router-dom';
 
 const Header = () => {
   return (
-    <header>
-      <nav>
-        <ul>
-          <li><a href="#">Home</a></li>
-          <li><a href="#">About</a></li>
-          <li><a href="#">Services</a></li>
-          <li><a href="#">Contact</a></li>
-        </ul>
-      </nav>
-    </header>
+    <AppBar position="static">
+      <Toolbar>
+        <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
+          Arbitrage Bot
+        </Typography>
+        <Button color="inherit" component={Link} to="/login">
+          Login
+        </Button>
+        <Button color="inherit" component={Link} to="/register">
+          Register
+        </Button>
+      </Toolbar>
+    </AppBar>
   );
 };
 

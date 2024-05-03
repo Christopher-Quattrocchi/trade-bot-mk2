@@ -1,36 +1,86 @@
-//MODIFY ME LATER
 import React, { useEffect, useState } from 'react';
-import { getArbitrageOpportunities } from '../../services/api';
+import {
+  Box,
+  Typography,
+  Button,
+  List,
+  ListItem,
+  ListItemText,
+} from '@mui/material';
+import { getOpenPositions, closeArbitragePosition } from '../../services/api';
 
-const ArbitrageOpportunities = () => {
-  const [opportunities, setOpportunities] = useState([]);
+const ClosePositions = () => {
+  const [openPositions, setOpenPositions] = useState([]);
 
   useEffect(() => {
-    const fetchArbitrageOpportunities = async () => {
+    const fetchOpenPositions = async () => {
       try {
-        const data = await getArbitrageOpportunities();
-        setOpportunities(data.opportunities);
+        const data = await getOpenPositions();
+        setOpenPositions(data.positions);
       } catch (error) {
         // Handle error
       }
     };
 
-    fetchArbitrageOpportunities();
+    fetchOpenPositions();
   }, []);
 
+  const handleClosePosition = async (position) => {
+    try {
+      await closeArbitragePosition(position);
+      // Handle successful position closing
+    } catch (error) {
+      // Handle error
+    }
+  };
+
   return (
-    <div>
-      <h2>Arbitrage Opportunities</h2>
-      {opportunities.map((opportunity) => (
-        <div key={opportunity.id}>
-          <p>Symbol: {opportunity.symbol}</p>
-          <p>Buy Exchange: {opportunity.buy_exchange}</p>
-          <p>Sell Exchange: {opportunity.sell_exchange}</p>
-          <p>Profit Percentage: {opportunity.profit_percentage}%</p>
-        </div>
-      ))}
-    </div>
+    <Box
+      sx={{
+        display: 'flex',
+        flexDirection: 'column',
+        alignItems: 'center',
+        maxWidth: 600,
+        mx: 'auto',
+        my: 4,
+        p: 4,
+        bgcolor: 'background.paper',
+        borderRadius: 2,
+        boxShadow: 2,
+      }}
+    >
+      <Typography variant="h5" component="h1" gutterBottom>
+        Close Arbitrage Positions
+      </Typography>
+      <List>
+        {openPositions.map((position) => (
+          <ListItem key={position.id}>
+            <ListItemText
+              primary={`Symbol: ${position.symbol}`}
+              secondary={
+                <>
+                  <Typography component="span">
+                    Buy Exchange: {position.buy_exchange}
+                  </Typography>
+                  <br />
+                  <Typography component="span">
+                    Sell Exchange: {position.sell_exchange}
+                  </Typography>
+                </>
+              }
+            />
+            <Button
+              variant="contained"
+              color="primary"
+              onClick={() => handleClosePosition(position)}
+            >
+              Close Position
+            </Button>
+          </ListItem>
+        ))}
+      </List>
+    </Box>
   );
 };
 
-export default ArbitrageOpportunities;
+export default ClosePositions;
